@@ -1,16 +1,15 @@
 ```toc
 ```
+## Download Training Package
+1. Graphical Option: Use the Download Button Above
+1. Terminal Option (Recommended): 
 
-## Why use a Git based Unit Level Lesson Plan?
-[Git-For_Unit_Training.pdf](./Git-For_Unit_Training.pdf)
+```BASH
+git clone https://git.irregularchat.com/4df/poi-bttc.git
+```
 
-## Use Template Template
 
-1. Create Gitlab Account
-1. Fork Repository (Fork Button Above)
-1. Add appropriate name as needed.
-
-## Update Template
+## Update Training Package
 You must navigate to be inside the directory poi-development and execute the following command:
 ```BASH
 git pull
@@ -19,7 +18,7 @@ git pull
 ## Background of Process and Format
 This structure has been developed after over a year of course development, instruction, and with TRADOC Doctrine, and the SWCS Course Developer Course referenced. Fair warining, there is a lot of reading.
 
-The structure in this notebook diverts from Doctrine and SWCS Instruction where needed based on the unique unit limitations, requirements, and size of unit training compared to training at a center of excellence (CoE)
+NOTE: The structure in this notebook diverts from Doctrine and SWCS Instruction where needed based on the unique unit limitations, requirements, and size of unit training compared to training at a center of excellence (CoE)
 
 ### Developing Training (Writing)
 Start with "POI Development"  and use the provided "Developer Workbook" to analyse jobs, tasks, and the audience to be trained.
@@ -41,7 +40,6 @@ Training is designed largely based on the Experiential Learning Model (ELM) whic
  
 If you have not been to the SWCS Course Faculty Course yet, study the following content:
 - [Gagne's Nine Events of Instruction](https://youtu.be/-31fCUQ2htU)
-
 ### Academic Hour
 50 minutes is used as an “hour” to allow students to take a 10-minute break or two 5-minute breaks. 
 
@@ -114,4 +112,9 @@ How to Use? Replace Original_String and Replacement_New_String above and input i
 - Solution, finding ./git and running the git command on the enclosing directory
 ```BASH
 find . -name .git -print -execdir git pull \;
+```
+
+### Convert Powerpoints to PDF recursivly 
+```BASH
+find . -name "*.ppt*" -exec sh -c 'soffice --headless --convert-to pdf "{}" --outdir "$(dirname "{}")"' \;
 ```
