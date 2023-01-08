@@ -5,7 +5,7 @@
 1. Terminal Option (Recommended): 
 
 ```BASH
-git clone https://git.irregularchat.com/4df/poi-bttc.git
+git clone https://git.irregularchat.com/4df/template-development-project.git
 ```
 
 
