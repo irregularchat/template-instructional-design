@@ -1,5 +1,6 @@
 ```toc
 ```
+
 ## How To Use
 ### Developing Unit Training (WRITING)
 1. Open markdown files and folders using Obsidian
@@ -59,20 +60,20 @@ This 2-hour lesson is an introductory level orientation to Commissary anti-robbe
 
 ### Learning Objectives
 ### Terminal Learning Objective (TLO): 
-"`text
+```text
 Action: Approved_Verb Object Qualifier
 Condition: 
 Standard: Approved_Verb Object Qualifier Level of Proficiency 
 ```
 ---
 ### Enabling Learning Objective (ELO) _or_ Learning Step Activity (LSA):
- "`text
+ ```text
 Action: Approved_Verb Object Qualifier
 Condition: 
 Standard: Approved_Verb Object Qualifier Level of Proficiency 
 ```
 ### Enabling Learning Objective (ELO) _or_ Learning Step Activity( LSA):
-"`text
+```text
 Action: Approved_Verb Object Qualifier
 Condition: 
 Standard: Approved_Verb Object Qualifier Level of Proficiency 
@@ -80,10 +81,8 @@ Standard: Approved_Verb Object Qualifier Level of Proficiency
 ---
 
 ### References
-"`text
 1. Reference_1
 2. Reference_2
-```
 
 ## SECTION 1: **ADMINISTRATIVE DATA** 
 ## Instructional Guidance
