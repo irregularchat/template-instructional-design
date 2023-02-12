@@ -39,7 +39,7 @@ Phase_Topic_Goes_Here
 3. _Collect the notecards from each student_
 4. _write a complex password on the writing board_
 5. _Ask students to remember this password_
-6. _Ask students who remember their strong password and confirm?_
+6. _Ask students who remember their strong password and confirm._
 
 ---
 | Time | ELM Phase | Comment           |
@@ -49,7 +49,7 @@ Phase_Topic_Goes_Here
 _Publish and Process (P&P) SC, Instructor Managed (facilitated)_
 1. _Ask students “what was difficult about remembering their password”_
 2. _Introduce the learning objectives_
-**(**NOTE: You should **transition** to GNI based on something that is said in P&P. For example: “That's a great point and ties in well with our focus today”…followed by introducing the learning objective where you tell participants what they will be able to do when you finish.) Introduce the Lesson Objective at GNI. |
+**(**NOTE: Instruction will transition to the GNI phase based on something that is said in P&P. For example: “That's a great point and ties in well with our focus today,”…followed by introducing the learning objective where you tell participants what they will be able to do when you finish.) Introduce the Lesson Objective at GNI. |
 
 ---
 | Time | ELM Phase | Comment           |
@@ -57,7 +57,7 @@ _Publish and Process (P&P) SC, Instructor Managed (facilitated)_
 | 03   | Generalize New Information        | Topic_Goes_Here |
 |      |           |                 |
 _Generalize New Information (GNI) Instructor Centered_
-1. _Go over visual graphic on the speed of cracking passwords_
+1. _Go over the visual graphic on the speed of cracking passwords_
 2. _Compare and contrast the previous guidance for creating complex passwords_
 3. _Demonstrate how secure and memorable passphrases are_
 
@@ -76,7 +76,7 @@ _Develop (Future Use) SC, Instructor Managed (facilitated)_
 |      |           |                 |
 _Apply (example: practical exercises, exam, etc.) Student Centered_
 1. _Ask students to write a strong passphrase on the board._
-(Note: At the conclusion of the Apply, you must provide feedback, and then you should have some sort of closing or wrap-up of the lesson.) |
+(Note: After the Apply phase, you must provide feedback, and then you should have some closing or wrap-up of the lesson.) |
 
 ---
 | Time | ELM Phase         | Comment         |
