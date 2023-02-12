@@ -1,4 +1,5 @@
-
+```toc
+```
 ## How To Use
 ### Developing Unit Training (WRITING)
 1. Open markdown files and folders using Obsidian
@@ -54,24 +55,24 @@ Developer Point of Contact: first.last@email.tld
 
  %%Example of a lesson scope. (TP 350-70-14, Par 3-9) %%
  
-This 2-hour lesson is an introductory level orientation to Commissary anti-robbery procedures. The **end state** of this lesson **is for new Commissary employees to be able to recall the necessary steps to take in the event of a robbery at the store. The** author's intent **is that new employees learn anti-robbery principles and procedures, and choose appropriate actions during a series of scenario-based exercises. By the end of the lesson, new employees should have a solid grasp of the actions to take if the store is being robbed. This lesson is common to all Commissary departments and** links to other parts of the curriculum** by reinforcing the character attributes of accountability and responsibility.
+This 2-hour lesson is an introductory level orientation to Commissary anti-robbery procedures. The **end state** of this lesson **is for new Commissary employees to be able to recall the necessary steps to take in the event of a robbery at the store. The** author's intent **is that new employees learn anti-robbery principles and procedures and choose appropriate actions during a series of scenario-based exercises. By the end of the lesson, new employees should have a solid grasp of the actions to take if the store is being robbed. This lesson is common to all Commissary departments and** links to other parts of the curriculum** by reinforcing the character attributes of accountability and responsibility.
 
 ### Learning Objectives
 ### Terminal Learning Objective (TLO): 
-```text
+"`text
 Action: Approved_Verb Object Qualifier
 Condition: 
 Standard: Approved_Verb Object Qualifier Level of Proficiency 
 ```
 ---
 ### Enabling Learning Objective (ELO) _or_ Learning Step Activity (LSA):
- ```text
+ "`text
 Action: Approved_Verb Object Qualifier
 Condition: 
 Standard: Approved_Verb Object Qualifier Level of Proficiency 
 ```
 ### Enabling Learning Objective (ELO) _or_ Learning Step Activity( LSA):
-```text
+"`text
 Action: Approved_Verb Object Qualifier
 Condition: 
 Standard: Approved_Verb Object Qualifier Level of Proficiency 
@@ -79,7 +80,7 @@ Standard: Approved_Verb Object Qualifier Level of Proficiency
 ---
 
 ### References
-```text
+"`text
 1. Reference_1
 2. Reference_2
 ```
@@ -93,11 +94,11 @@ Before class, play the video completely through one time. This will reduce compu
 
 ### **1. The importance of this lesson: (Why)**
 
-Insert how this ties to the student's goals and mission, or how it makes their current operations easier, or more effective
+Insert how this ties to the student's goals and mission, or how it makes their current operations easier, or more effective.
 
 ### **2. What we want our students to Achieve: (Outcomes/Standard)**
 
-Choose anti-robbery measures that are appropriate to the scenario, based on your interpretation of both the scenario itself and the job aid. Choices must align with the anti-robbery principles taught in the lesson.
+Choose anti-robbery measures that are appropriate to the scenario based on your interpretation of both the scenario itself and the job aid. Choices must align with the anti-robbery principles taught in the lesson.
 ### 3. A Possible Technique to Achieve the Outcome
 1. 
 ### 4. AAR Guidance for this Lesson
@@ -182,7 +183,7 @@ Lesson Material, Ammo, Expendable, etc.
 ---
 ## SECTION 2: LESSON INTRODUCTION
 
-%%The concrete experience is supposed to be an exercise where students can tinker and fail safely and in a controlled manner. The CE allows students to stumble a little and to later appreciate the lesson even more%%
+%%The concrete experience is supposed to be an exercise where students can tinker and fail safely and in a controlled manner. The CE allows students to stumble a little and to appreciate the lesson later even more%%
 
 ## **Concrete Experience / Motivator:** 
 NOTE: Tell an interesting anecdote based on your experience, or
@@ -218,7 +219,7 @@ NOTE: Note goes here
 
 
 #### Learning Step Activity Text:
->1. /MacOS is Proprietary and one of their terms of use prohibits the virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
+>1. /MacOS is Proprietary, and one of their terms of use prohibits the virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
 >2. /Organic capabilities use MacOS as a Commercial off the Shelf (COTS) solution to control devices and allow user interaction. Being familiar with MacOS will enable Operations.
 
 ##### SLIDE Go To on Slide X
@@ -241,9 +242,9 @@ NOTE: Note goes here
 
 #### Check on learning: 
 
--  Question: /Are you allowed to legally Virtualize or Copy MacOS?
+-  Question: /Are you allowed to Virtualize or Copy MacOS legally?
 
-	- **Answer:** /No, apply prohibits Virtualization of MacOS if not on a MacOS Device.
+	- **Answer:** /No, Apple prohibits Virtualization of MacOS if not on a MacOS Device.
 
 -  Question: /Can Government owned MacOS Whiteline computers be used for Operations? 
 	- Answer: /Yes. They also have better battery life and are common devices used globally 
@@ -261,7 +262,7 @@ NOTE: Note goes here
 
 
 #### Learning Step Activity Text:
->1. /MacOS is Proprietary and one of their terms of use prohibits the virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
+>1. /MacOS is Proprietary, and one of their terms of use prohibits the virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
 >2. /Organic capabilities use MacOS as a Commercial off the Shelf (COTS) solution to control devices and allow user interaction. Being familiar with MacOS will enable Operations.
 
 ##### SLIDE Go To on Slide X
@@ -284,9 +285,9 @@ NOTE: Note goes here
 
 #### Check on learning: 
 
--  Question: /Are you allowed to legally Virtualize or Copy MacOS?
+-  Question: /Are you allowed to Virtualize or Copy MacOS legally?
 
-	- **Answer:** /No, apply prohibits Virtualization of MacOS if not on a MacOS Device.
+	- **Answer:** /No, apple prohibits Virtualization of MacOS if not on a MacOS Device.
 
 -  Question: /Can Government owned MacOS Whiteline computers be used for Operations? 
 	- Answer: /Yes. They also have better battery life and are common devices used globally 
@@ -300,7 +301,7 @@ NOTE: Note goes here
 
 
 #### Learning Step Activity Text:
->1. /MacOS is Proprietary and one of their terms of use prohibits the virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
+>1. /MacOS is Proprietary, and one of their terms of use prohibits the virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
 >2. /Organic capabilities use MacOS as a Commercial off the Shelf (COTS) solution to control devices and allow user interaction. Being familiar with MacOS will enable Operations.
 
 ##### SLIDE Go To on Slide X
@@ -323,9 +324,9 @@ NOTE: Note goes here
 
 #### Check on learning: 
 
--  Question: /Are you allowed to legally Virtualize or Copy MacOS?
+-  Question: /Are you allowed to Virtualize or Copy MacOS legally?
 
-	- **Answer:** /No, apply prohibits Virtualization of MacOS if not on a MacOS Device.
+	- **Answer:** /No, Apple prohibits Virtualization of MacOS if not on a MacOS Device.
 
 -  Question: /Can Government owned MacOS Whiteline computers be used for Operations? 
 	- Answer: /Yes. They also have better battery life and are common devices used globally 
@@ -339,7 +340,7 @@ NOTE: Note goes here
 
 
 #### Learning Step Activity Text:
->1. /MacOS is Proprietary and one of their terms of use prohibits the virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
+>1. /MacOS is Proprietary, and one of their terms of use prohibits the virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
 >2. /Organic capabilities use MacOS as a Commercial off the Shelf (COTS) solution to control devices and allow user interaction. Being familiar with MacOS will enable Operations.
 
 ##### SLIDE Go To on Slide X
@@ -362,12 +363,12 @@ NOTE: Note goes here
 
 #### Check on learning: 
 
--  Question: /Are you allowed to legally Virtualize or Copy MacOS?
+-  Question: /Are you allowed to Virtualize or Copy MacOS legally?
 
-	- **Answer:** /No, apply prohibits Virtualization of MacOS if not on a MacOS Device.
+	- **Answer:** /No, Apple prohibits Virtualization of MacOS if not on a MacOS Device.
 
--  Question: /Can Government owned MacOS Whiteline computers be used for Operations? 
-	- Answer: /Yes. They also have better battery life and are common devices used globally 
+-  Question: /Can Government owned MacOS Whiteline computers are suitable for Operations, with appropriate permission? 
+	- Answer: /Yes. MacOS devices also have better battery life and are standard devices used globally 
 
 ---
 
@@ -405,12 +406,12 @@ _If not addressed elsewhere (like in a Test Administration Guide), you may inclu
 |          |                         | https://url.com   | PPT        |
 ## APPENDIX B - Assessment Statement and Assessment Plan
 ### **Assessment Statement:** 
-_An abbreviated statement that identifies how the lesson’s TLO will be assessed as reflected in the Individual Student Assessment Plan (ISAP)_
+_An abbreviated statement that identifies how the lesson's TLO will be assessed as reflected in the Individual Student Assessment Plan (ISAP)_
 
 ---
 ### **Assessment Plan:** 
 _If not covered in Section V (Student Evaluation), you may do a detailed write-up of the assessment procedures for the lesson in this appendix.  You can include or refer to Test Control SOPs, procedures for procuring and grading tests, or procedures for conducting performance assessments.  It is OK to include performance checklists here, but DO NOT include written test items or their answers in this appendix._
 ## APPENDIX C - Practical Exercises and Solutions
-_If the lesson has a stand-alone PE that requires coordination and detailed explanations, it can be written up here. The write-up should include basic lesson plan elements, including the PE objective(s), resources, the time required, safety and risk information, and general procedures.
+_If the lesson has a stand-alone PE requiring coordination and detailed explanations, it can be written here. The write-up should include basic lesson plan elements, including the PE objective(s), resources, the time required, safety and risk information, and general procedures.
 
-In TDCP, lessons using PE structure will have the PE included in this appendix.  If your lesson has a learning step/activity that uses PE as the method of instruction, DO NOT use this appendix._
+In TDCP, lessons using PE structure will have the PE included in this appendix.  If your lesson has a learning step/activity that uses PE as the method of instruction, do not use this appendix._
