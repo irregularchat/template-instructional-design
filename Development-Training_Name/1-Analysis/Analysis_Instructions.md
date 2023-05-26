@@ -1,13 +1,14 @@
+
 ### NOTE
-Use the Developer Workbook when possible from the download [Link](https://u.pcloud.link/publink/show?code=XZXi12VZlK3RSPcAJ7ytQDx7dzxnEjcav29V) 
+Use the Developer Workbook when possible from the Download [Link](https://u.pcloud.link/publink/show?code=XZXi12VZlK3RSPcAJ7ytQDx7dzxnEjcav29V) 
 
 # Problem Statement
 (TP 350-70-14, Par  3-7)
-Write a problem statement to specify the gap in performance.  For example: "The problem is… Military Intelligence students are not completing status reports to include all elements specified by the standard."
+Write a problem statement to specify the performance gap.  For example: "The problem is… Military Intelligence students are not completing status reports to include all elements specified by the standard."
 
 # Scope of the Performance Problem:
 (TP 350-70-14, Par 3-9)
-Identify the extent (isolated or widespread), gravity (seriousness of the problem with regard to safety, environmental, or security aspects), and impact (mission consequences of sub-standard individual or unit performance) of the problem.
+Identify the extent (isolated or widespread), gravity (seriousness of the problem concerning safety, environmental, or security aspects), and impact (mission consequences of a sub-standard individual or unit performance) of the problem.
 
 # Needs Analysis (DOTmLPF-P)
 (TP 350-70-14, Par 3-3, Table 3-1)
@@ -19,12 +20,12 @@ Perform a DOTMLPF Analysis on your problem statement:
 
 # Goal/Topic Analysis-(as required)
 
-Complete Goal Analysis based on problem statement and needs analysis to write your SCOPE and OUTCOME statements.  
+Complete Goal Analysis based on the problem statement and needs analysis to write your SCOPE and OUTCOME statements.  
 Complete a Topic Analysis to identify topical areas (i.e., Major/Minor Topics) to be covered by training arranged in a hierarchy. 
 
 # Task Analysis / Total Tasks Inventory (TTI)
 
-Create a total task inventory (TTI) (5 tasks). Ensure task titles are written according to business rules, using action verbs aligned with learning domain and level per TP 350-70-1 Appendix E.
+Create a total task inventory (TTI) (5 tasks). Ensure task titles are written according to business rules, using action verbs aligned with the learning domain and level per TP 350-70-1 Appendix E.
 
 # Difficulty-Importance-Frequency (DIF):
 
@@ -33,7 +34,7 @@ Perform a Difficulty-Importance-Frequency (DIF) Model analysis on the tasks list
 # Individual Task  
 Analysis: 
 
-Select the two tasks with the highest training priority from the DIF Model analysis and conduct an "Individual Task Analysis" on each ensuring to include:  
+Select the two tasks with the highest training priority from the DIF Model analysis and conduct an "Individual Task Analysis" on each, ensuring to include:  
    • Task Title (from TTI)  
    • Task Condition Statement  
    • Task Standard Statement  
@@ -48,15 +49,15 @@ Select the two tasks with the highest training priority from the DIF Model analy
 
 # Skills and Knowledge Matrix:
 
-For each of the two tasks you analyzed in the previous step complete a Skill and Knowledge Matrix and answer the two questions below the S&K Matrix tables.
+For each of the two tasks you analyzed in the previous step, complete a Skill and Knowledge Matrix and answer the questions below the S&K Matrix tables.
 
 # Performance Measures:
 
 Complete the Performance Measures for the two tasks you completed in the Individual Task Analysis.   
 Complete the three steps and any sub-steps needed.  Answer the questions using the drop-down boxes.   
 Select whether the step has sub-steps [Yes or No].  
-Select whether the performance measures are a "Product", "Process", or "Combination".  
-Indicate where the performance measures are based on type of performance standard used by selecting either "Go", "No Go", or "N/A".
+Select whether the performance measures are a "Product," "Process," or "Combination."  
+Indicate where the performance measures are based on the type of performance standard used by selecting either "Go," "No Go," or "N/A."
 
 # Target Audience Analysis:
 
@@ -64,5 +65,12 @@ Create a Target Audience Profile (TAP) Analysis for the trainees who will engage
 
 # Gap and Resource Analysis:
 
-Perform a Gap and resource Analysis to update scope statement and identify resources required to deliver training.  
+Perform a Gap and resource Analysis to update the scope statement and identify resources required to deliver training.  
 Additional instructions are provided on the sheet.
+
+
+## Approved Verbs
+Adjust, Administer, Align, Analyze, Annotate, Apply, Approve, Assault, Assemble, Assess, Attack, Breach, Brief, Calculate, Camouflage, Challenge, Change, Check, Clear, Close, Collect, Communicate, Compare, Complete, Comply, Compute, Conduct, Configure, Confirm, Connect, Consolidate, Construct, Control, Coordinate, Correct, Correlate, Counsel, Counter, Cross, Debrief, Deconflict, Decontaminate, Defend, Define, Deliver, Demonstrate, Deploy, Designate, Destroy, Detect, Determine, Develop, Direct, Disassemble, Disconnect, Disengage, Dismantle, Dispatch, Displace, Distribute, Don, Download, Draft, Edit, Emplace, Employ, Enforce, Engage, Ensure, Enter, Erect, Escort, Establish, Estimate, Evacuate, Evade, Evaluate, Exchange, Extend, Extract, Facilitate, Fire, Forward, Fuel, Guard, Identify, Implement, Infiltrate, Inform, Initialize, Input, Inspect, Install, Integrate, Interpret, Inventory, Investigate, Issue, Land, Launch, Lay, Lead, Load, Localize, Locate, Lubricate, Maintain, Manage, Mark, Measure, Modify, Monitor, Mount, Move, Navigate, Negotiate, Neutralize, Notify, Observe, Obtain, Occupy, Open, Operate, Order, Organize, Orient, Pack, Patrol, Perform, Place, Plan, Plot, Position, Post, Predict, Prepare, Present, Prevent, Process, Produce, Project, Protect, Provide, Publish, React, Read, Receive, Recognize, Recommend, Reconnoiter, Record, Recover, Reduce, Refine, Register, Release, Relocate, Remove, Reorganize, Repair, Replace, Report, Request, Resolve, Restore, Retrieve, Review, Revise, Rig, Schedule, Secure, Select, Send, Set up, Store, Submit, Task, Test, Tow, Track, Train, Translate, Transmit, Transport, Treat, Troubleshoot, Turn, Unload, Update, Validate, Verify, Wear, Write, Zero
+
+
+
