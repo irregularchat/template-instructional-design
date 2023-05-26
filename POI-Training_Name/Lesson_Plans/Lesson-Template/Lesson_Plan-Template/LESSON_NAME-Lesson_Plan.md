@@ -280,7 +280,7 @@ NOTE: Note goes here
 
 #### Development
 - Question:
-> /Why is knowing about MacOS and the apple terms of use important for your mission?
+> /Why is knowing about MacOS and the Apple terms of use important for your mission?
 
 #### Check on learning: 
 
@@ -319,7 +319,7 @@ NOTE: Note goes here
 
 #### Development
 - Question:
-> /Why is knowing about MacOS and the apple terms of use important for your mission?
+> /Why is knowing about MacOS and Apple's terms of use important for your mission?
 
 #### Check on learning: 
 
