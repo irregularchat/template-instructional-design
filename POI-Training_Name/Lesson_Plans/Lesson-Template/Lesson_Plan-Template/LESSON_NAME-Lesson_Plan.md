@@ -109,11 +109,11 @@ An instructor must
 1. Review the entire lesson plan for each lesson they will cover.  
 2. Be able to obtain, access, and be familiar with the required material and equipment.
 
-An instructor {must / should} attend the following training:
+An instructor must attend the following training:
 1. TRADOC-approved faculty course
 2. {INSERT_Course}
 
-An instructor should ideally:
+An instructor should :
 1. Have received this block of instruction as a student
 2. Participated in this instruction as an assistant instructor for this lesson
 3. Participated in the AAR for this lesson
@@ -213,7 +213,7 @@ Generalize New Information, Develop, and Apply
 
 ### Learning Step Activity (LSA) X:  Learning Step Activity (LSA) Title.
 
-##### SLIDE Go To on Slide X
+##### SLIDE X
 NOTE: Note goes here
 
 
@@ -221,18 +221,18 @@ NOTE: Note goes here
 >1. /MacOS is Proprietary, and one of their terms of use prohibits the virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
 >2. /Organic capabilities use MacOS as a Commercial off the Shelf (COTS) solution to control devices and allow user interaction. Being familiar with MacOS will enable Operations.
 
-##### SLIDE Go To on Slide X
+##### SLIDE X
 NOTE: Note goes here
 
-##### SLIDE Go To on Slide X
+##### SLIDE X
 NOTE: Note goes here
 
-##### SLIDE Go To on Slide X
+##### SLIDE X
 NOTE: Note goes here
 
 #### Activity
 
-##### SLIDE Go To on Slide X
+##### SLIDE X
 NOTE: Note goes here
 
 #### Development
@@ -256,7 +256,7 @@ NOTE: Note goes here
 
 ### Learning Step Activity (LSA) X:  Learning Step Activity (LSA) Title.
 
-##### SLIDE Go To on Slide X
+##### SLIDE X
 NOTE: Note goes here
 
 
@@ -264,18 +264,18 @@ NOTE: Note goes here
 >1. /MacOS is Proprietary, and one of their terms of use prohibits the virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
 >2. /Organic capabilities use MacOS as a Commercial off the Shelf (COTS) solution to control devices and allow user interaction. Being familiar with MacOS will enable Operations.
 
-##### SLIDE Go To on Slide X
+##### SLIDE X
 NOTE: Note goes here
 
-##### SLIDE Go To on Slide X
+##### SLIDE X
 NOTE: Note goes here
 
-##### SLIDE Go To on Slide X
+##### SLIDE X
 NOTE: Note goes here
 
 #### Activity
 
-##### SLIDE Go To on Slide X
+##### SLIDE X
 NOTE: Note goes here
 
 #### Development
@@ -295,7 +295,7 @@ NOTE: Note goes here
 
 ### Learning Step Activity (LSA) X:  Learning Step Activity (LSA) Title.
 
-##### SLIDE Go To on Slide X
+##### SLIDE X
 NOTE: Note goes here
 
 
@@ -303,18 +303,18 @@ NOTE: Note goes here
 >1. /MacOS is Proprietary, and one of their terms of use prohibits the virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
 >2. /Organic capabilities use MacOS as a Commercial off the Shelf (COTS) solution to control devices and allow user interaction. Being familiar with MacOS will enable Operations.
 
-##### SLIDE Go To on Slide X
+##### SLIDE X
 NOTE: Note goes here
 
-##### SLIDE Go To on Slide X
+##### SLIDE X
 NOTE: Note goes here
 
-##### SLIDE Go To on Slide X
+##### SLIDE X
 NOTE: Note goes here
 
 #### Activity
 
-##### SLIDE Go To on Slide X
+##### SLIDE X
 NOTE: Note goes here
 
 #### Development
@@ -334,7 +334,7 @@ NOTE: Note goes here
 
 ### Learning Step Activity (LSA) X:  Learning Step Activity (LSA) Title.
 
-##### SLIDE Go To on Slide X
+##### SLIDE X
 NOTE: Note goes here
 
 
@@ -342,18 +342,18 @@ NOTE: Note goes here
 >1. /MacOS is Proprietary, and one of their terms of use prohibits the virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
 >2. /Organic capabilities use MacOS as a Commercial off the Shelf (COTS) solution to control devices and allow user interaction. Being familiar with MacOS will enable Operations.
 
-##### SLIDE Go To on Slide X
+##### SLIDE X
 NOTE: Note goes here
 
-##### SLIDE Go To on Slide X
+##### SLIDE X
 NOTE: Note goes here
 
-##### SLIDE Go To on Slide X
+##### SLIDE X
 NOTE: Note goes here
 
 #### Activity
 
-##### SLIDE Go To on Slide X
+##### SLIDE X
 NOTE: Note goes here
 
 #### Development
