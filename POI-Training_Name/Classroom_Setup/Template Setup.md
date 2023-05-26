@@ -1,34 +1,36 @@
 ```toc
 ```
 ## Context
-The intention of the guide is to establish a local email server which: 
-- Is not reliant on Internet access
-- Does not require a domain name
-- Capable of creating email accounts 
-- Has easy administrative functions
-- Is capable of automation (via API and CLI)
-- Available to access on Web browser and email client 
-- Can recieve controlled phishing and spam for training
-
+The intention of the guide is to : 
+- 
  
 ## References
-https://poste.io/doc/getting-started
+
 
 ## Requirements
 
--    **64bit linux distribution** 
-	- running in virtual machine (VM) or dedicated server 
-	- within a simple virtual machine on desktop if required. 
--   two CPU / 3GB Memory / 32 GB Storages
--   Docker
--   All devices on the same local network
--  Domain Name System (DNS) Server if possible
-	- This will allow local domains such as mail.local
--  Web Browser
+-   Hardware
+	- **64bit linux distribution** 
+		- running in virtual machine (VM) or dedicated server 
+		- within a simple virtual machine on desktop if required. 
+	-   two CPU / 3GB Memory / 32 GB Storages
+-   Software:
+	- Docker
+	-  Domain Name System (DNS) Server if possible
+		- This will allow local domains such as mail.local
+	-  Web Browser
+- All devices on the same local network
 
 
 ## Instructions
+### Setup
+#### Full Scripts
+```BASH
 
+```
+
+
+#### By The Numbers
 ```BASH
 #Install Docker
 sudo apt update; sudo apt install -y docker docker.io
@@ -48,7 +50,8 @@ docker run \
 After that, you can open a Web browser to the domain of the VM or device running this email server. 
 
 Close Terminal window and confirm mail server is still working on browser. 
-### Local Email Administration Management
+### Administration
+#### Local Email Administration Management
 #### Command line
 
 for docker supporting **exec** command:
