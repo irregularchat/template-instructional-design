@@ -13,18 +13,25 @@ Reference to the following Doctrine from [TRADOC Administrative Publications](ht
 
 ## Download Template
 1. Graphical Option: Use the Download Button Above
-1. Terminal Option (Recommended): 
+1. Terminal Option (Recommended) to keep the template updated:
 
 ```BASH
 git clone https://github.com/irregularchat/template-instructional-design.git
 ```
-
 
 ## Update Template
 You must navigate to be inside the directory poi-development and execute the following command:
 ```BASH
 git pull
 ```
+
+## Using the Template to Develop Training
+1. Create a fork of the repository to your account and name it appropriately after the training you are developing.
+1. Use the Developer Workbook to analyze the jobs, tasks, and audience to be trained.
+1. Develop the training materials in the POI-Development directory.
+1. Use the provided templates to create the training materials.
+
+ Make sure you are using git add, commit, and push to save your work.
 
 ## Background of Process and Format
 This structure was developed after over a year of course development and instruction, with TRADOC Doctrine and the SWCS Course Developer Course referenced. Fair warning, there is a lot of reading.
