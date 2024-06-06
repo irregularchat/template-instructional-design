@@ -1,4 +1,14 @@
- TP 350-70-14
+Reference to the following Doectrine from https://adminpubs.tradoc.army.mil/pamphlets.html
+- TP 350-70-1
+- TP 350-70-3
+- TP 350-70-7
+- TP 350-70-9
+- TP 350-70-12
+- TP 350-70-13
+- TP 350-70-14
+
+
+Also TP 380-10 for the Foreign Disclosure Pamphlet
 
 ## Problem Statement
 
