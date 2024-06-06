@@ -1,5 +1,4 @@
-```toc
-```
+
 
 ## How To Use
 ### Developing Unit Training (WRITING)
@@ -60,24 +59,24 @@ This 2-hour lesson is an introductory level orientation to Commissary anti-robbe
 
 ### Learning Objectives
 ### Terminal Learning Objective (TLO): 
-```text
+
 Action: Approved_Verb Object Qualifier
 Condition: 
 Standard: Approved_Verb Object Qualifier Level of Proficiency 
-```
+
 ---
 ### Enabling Learning Objective (ELO) _or_ Learning Step Activity (LSA):
- ```text
+ 
 Action: Approved_Verb Object Qualifier
 Condition: 
 Standard: Approved_Verb Object Qualifier Level of Proficiency 
-```
+
 ### Enabling Learning Objective (ELO) _or_ Learning Step Activity( LSA):
-```text
+
 Action: Approved_Verb Object Qualifier
 Condition: 
 Standard: Approved_Verb Object Qualifier Level of Proficiency 
-```
+
 ---
 
 ### References

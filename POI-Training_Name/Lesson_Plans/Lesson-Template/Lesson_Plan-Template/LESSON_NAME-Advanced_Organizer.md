@@ -1,5 +1,4 @@
-```toc
-```
+
 # Learning Objective
 ### **Action:** __Approved-Verb Object Qualifier.__
 
