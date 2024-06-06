@@ -228,11 +228,6 @@ NOTE: Note goes here
 -  Question: /Can Government owned MacOS Whiteline computers be used for Operations? 
 	- Answer: /Yes. They also have better battery life and are common devices used globally 
 
----
-
-
----
-
 
 ### Learning Step Activity (LSA) X:  Learning Step Activity (LSA) Title.
 
@@ -338,16 +333,15 @@ NOTE: Note goes here
 
 #### Development
 - Question:
-> /Why is knowing about MacOS and the apple terms of use important for your mission?
+> /fill in question here ?
 
 #### Check on learning: 
 
 -  Question: /Are you allowed to Virtualize or Copy MacOS legally?
 
-	- **Answer:** /No, Apple prohibits Virtualization of MacOS if not on a MacOS Device.
-
--  Question: /Can Government owned MacOS Whiteline computers are suitable for Operations, with appropriate permission? 
-	- Answer: /Yes. MacOS devices also have better battery life and are standard devices used globally 
+	- **Answer:** /fill in question here
+-  Question: /fill in question here? 
+	- Answer: /here 
 
 ---
 
