@@ -201,13 +201,13 @@ NOTE: Note goes here
 >1. /MacOS is Proprietary, and one of their terms of use prohibits the virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
 >2. /Organic capabilities use MacOS as a Commercial off the Shelf (COTS) solution to control devices and allow user interaction. Being familiar with MacOS will enable Operations.
 
-##### SLIDE X
+##### SLIDE 1
 NOTE: Note goes here
 
-##### SLIDE X
+##### SLIDE 2
 NOTE: Note goes here
 
-##### SLIDE X
+##### SLIDE 3
 NOTE: Note goes here
 
 #### Activity
