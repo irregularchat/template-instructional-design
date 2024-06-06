@@ -1,19 +1,3 @@
-
-
-## How To Use
-### Developing Unit Training (WRITING)
-1. Open markdown files and folders using Obsidian
-2. Use Git Repo to maintain version control, allow push, and create branches
-3. Use the Developers Workbook (Excel File) to guide analysis and develop objectives
-4. Copy and paste 
-
----
-### Instructing or Conducting Unit Training (READING)
-1. Use this lesson plan to rehearse, identify or plan requirements, and provide necessary onboarding to instructors
-	1. Printing the "Advanced Organizer" for each lesson and using it as needed during the lesson is the best approach rather than printing this lesson plan.
-
----
-
 ## SECTION 0: LESSON OVERVIEW
 ### Lesson Information
 Lesson Title: **Object_HERE Verb_HERE**
@@ -174,9 +158,6 @@ Lesson Material, Ammo, Expendable, etc.
 | y              |             | 5            | Apply                          |
 | y              |             | 3            | Assessment / Check On Learning |
 |                |             |              |                                |
-| END            | 0           | 44           | 0.88                           |
-<!-- TBLFM: @>$3=sum(@I..@-3) -->
-<!-- TBLFM: @>$4=(@>$3/50) -->
 
 ---
 ## SECTION 2: LESSON INTRODUCTION
