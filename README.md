@@ -1,36 +1,9 @@
-```toc
-```
-## FIXME: 
-Still working on :
-- Structure:
-	- [x] Covert to markdown
-	- [x]  Remove areas that do not make sense for unit-level training
-	- [x] develop a storage structure for easy checkout
-	- [x] Move to git-based solution
-- Lesson Plans:
-    - [ ] Classroom setup 
-    - [ ] Account Authentication
-    - [x] MacOS
-    - [ ] Virtual Machines
-    - [ ] DFP Terms
-    - [ ] Course Start
-    - [ ] Course End
-    - [ ] DFP Capstone
-    - [ ] VPN
-    - [ ] Encryption
-    - [ ] Windows Hardening
-    - [ ] Mobile Hardening
-    - [ ] Secure Communication
-    - [ ] Threat Model and Intro(?)
-    - [x] Slides
-    - [ ] Network Hardening
-- 
 ## Download Template
 1. Graphical Option: Use the Download Button Above
 1. Terminal Option (Recommended): 
 
 ```BASH
-git clone https://git.irregularchat.com/TNGDEV/poi-dfp.git
+git clone https://github.com/irregularchat/template-instructional-design.git
 ```
 
 
@@ -54,10 +27,7 @@ Start with "POI Training" and Find the Lesson Plans, the Audio Visual Content, a
 
 ## How to Use This Notebook 
 ### Obsidian 
-This markdown structure is best when used with [Obsidian](https://obsidian.md/) and the following plugins: [Settings > Community Plugins > Browse]
-1. Advanced Tables
-2. LanguageTool Integration (Spellcheck)
-3. Dynamic Table of Contents (Table of Contents)
+This markdown structure is best when used with [Obsidian](https://obsidian.md/) 
 
 To expand or collapse sections/headers in a note Top Menu > Insert > {"Fold" or “Unfold”}  or configure a keyboard shortcut using the app preferences
 
