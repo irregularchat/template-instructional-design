@@ -1,3 +1,16 @@
+# Insturctional Design Template
+This template is designed to assist in the development of training materials for the United States Army. The structure is based on the Experiential Learning Model (ELM) and the TRADOC Pamphlets for Course Development.
+
+Reference to the following Doctrine from [TRADOC Administrative Publications](https://adminpubs.tradoc.army.mil/pamphlets.html):
+- TP 350-70-1
+- TP 350-70-3
+- TP 350-70-7
+- TP 350-70-9
+- TP 350-70-12
+- TP 350-70-13
+- TP 350-70-14
+- TP 380-10 (Foreign Disclosure Pamphlet)
+
 ## Download Template
 1. Graphical Option: Use the Download Button Above
 1. Terminal Option (Recommended): 
