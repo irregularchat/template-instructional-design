@@ -19,17 +19,6 @@
 | END     | CAPSTONE                          | 50            | Assessment                |
 | END     | Closing                           | 20            | -                         |
 | END     | TOTAL TIME                        | 755           | 15.1                      |
-<!-- TBLFM: @>$3=sum(@I..@-1) -->
-<!-- TBLFM: @>$4=(@>$3/50) -->
-### NOTE: 
-The formulas require an additional plugin: [Advanced Tables](source https://github.com/tgrosinger/md-advanced-tables/blob/main/docs/formulas.md)
-Below are the formulas with comments
-```md
-// Formula to get total minutes in the third column
-<!-- TBLFM: @>$3=sum(@I..@-1) -->
-// Formula to get total academic hours (50 minutes) based on the total minutes 
-<!-- TBLFM: @>$4=(@>$3/50) -->
-```
 
 ## Referenced Terms
 Modes of Delivery:
