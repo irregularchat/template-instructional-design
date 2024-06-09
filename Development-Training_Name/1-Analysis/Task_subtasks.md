@@ -1,0 +1,60 @@
+# Task Analysis Template
+
+**Job/MOS:**  
+[Insert Job/MOS]
+
+**Mission:**  
+[Insert Mission]
+
+**Collective Task:**  
+[Insert Collective Task]
+
+## Critical Task List
+
+| Temp Task # | Total Task Inventory (TTI)                               |
+|-------------|---------------------------------------------------------|
+| 0001        | [Insert Task - e.g., Greet Customers]                   |
+| 0002        | [Insert Task - e.g., Scan Items]                        |
+| 0003        | [Insert Task - e.g., Bag Items]                         |
+| 0004        | [Insert Task - e.g., Process Payments (Cash, Credit, Debit, EBT)] |
+| 0005        | [Insert Task - e.g., Issue Receipts]                    |
+| 0006        | [Insert Task - e.g., Handle Customer Inquiries and Complaints] |
+| 0007        | [Insert Task - e.g., Perform Price Checks]              |
+| 0008        | [Insert Task - e.g., Monitor Checkout Area for Security]|
+| 0009        | [Insert Task - e.g., Maintain Clean and Organized Checkout Area]|
+| 0010        | [Insert Task - e.g., Balance Cash Drawer at Shift End]  |
+| 0011        | [Insert Task - e.g., Restock Checkout Supplies (Bags, Receipt Paper, etc.)]|
+| 0012        | [Insert Task - e.g., Adhere to Store Policies and Procedures]|
+| 0013        | [Insert Task - e.g., Provide Exceptional Customer Service]|
+| 0014        | [Insert Task - e.g., Assist with Store Promotions and Loyalty Programs]|
+| 0015        | [Insert Task - e.g., Operate Point of Sale (POS) System]|
+| 0016        | [Insert Task - e.g., Process Returns and Exchanges]     |
+| 0017        | [Insert Task - e.g., Verify Age-Restricted Sales (e.g., Alcohol, Tobacco)]|
+| 0018        | [Insert Task - e.g., Handle Special Transactions (e.g., Gift Cards, Coupons)]|
+
+[Continue adding tasks as necessary]
+
+---
+
+### Instructions for Completing the Task Analysis Template:
+
+1. **Job/MOS:** Enter the specific job title or Military Occupational Specialty (MOS) for which the task analysis is being conducted.
+
+2. **Mission:** Describe the broad mission or primary function that the job supports.
+
+3. **Collective Task:** Provide a clear and concise description of the collective task or major duty that encompasses multiple subtasks.
+
+4. **Critical Task List:** 
+    - **Temp Task #:** Assign a temporary task number to each task in a sequential order.
+    - **Total Task Inventory (TTI):** List each task that is necessary to complete the collective task. Use action verbs and clear, concise language to describe each task.
+    - **Examples:**
+        - 0001: Greet Customers
+        - 0002: Scan Items
+        - 0003: Bag Items
+        - 0004: Process Payments (Cash, Credit, Debit, EBT)
+        - 0005: Issue Receipts
+        - [Add more tasks as relevant to the job being analyzed]
+
+5. **Continue adding tasks as necessary:** Expand the task list to include all tasks required to perform the collective task effectively.
+
+This template can be adapted to various jobs by modifying the job title, mission, collective task, and task list as needed.
