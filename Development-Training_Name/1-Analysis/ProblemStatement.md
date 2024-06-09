@@ -1,0 +1,28 @@
+# Problem Statement, Description, and Scope Template
+## Mission: [Broad mission or Job that the Task Supports]
+## Collective Task: [Clear, concise description of the task.]
+## Problem Statement
+**Problem:**  
+[Clearly state the problem, specifying the gap in performance or knowledge.]
+
+## Problem Description
+**Description:**  
+[Provide a detailed description of the problem. Explain the context, the key issues, and any relevant background information. Discuss why the problem exists and its implications.]
+
+## Scope Statement
+**Scope of the Performance Problem:**  
+[Provide a detailed scope statement for the performance problem. Explain who is affected, the areas impacted, and the significance of the problem. Discuss the potential consequences if the problem is not addressed.]
+
+### Impact Areas:
+1. **Increased Vulnerability:**  
+   [Explain how the problem increases vulnerability and the potential risks involved.]
+
+2. **Public Support:**  
+   [Describe how the problem affects public support and trust.]
+
+3. **Stability and Governance:**  
+   [Discuss how the problem impacts stability and governance, and the potential consequences.]
+
+4. **Operational Integrity:**  
+   [Explain how the problem affects operational integrity and the potential for counterproductive outcomes.]
+
