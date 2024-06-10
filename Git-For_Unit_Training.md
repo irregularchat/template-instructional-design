@@ -53,7 +53,7 @@ These are available on the internet, to self-host, and on government networks.
 2. **Develop Non-Formal Training**: Create additional resources and training materials for unit instructors to use in non-formal training settings.
 
 ### Enhancing Git Usage
-1. **Create a Branch for New Lessons**: Encourage developers to create branches for new lessons, facilitating better version control and collaboration.
+1. **Create a Fork for a New Course, or Exhcange**: Encourage developers and trainers to create branches for new lessons, facilitating better version control and collaboration. 
    - [Create a Fork for a New Course, or Exhcange](https://github.com/irregularchat/template-instructional-design.git)
 2. **Utilize Issues for Feedback**: Use Git's issue tracking feature to collect and manage feedback from users.
 3. **Incorporate Pull Requests**: Implement a process for reviewing and merging pull requests to ensure high-quality updates. You'll be able to provide permission to merge pull requests to the SMEs and the training developers. Others will be able to create pull requests, but not merge them.
