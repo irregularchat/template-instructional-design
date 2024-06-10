@@ -15,7 +15,10 @@ Reference to the following Doctrine from [TRADOC Administrative Publications](ht
 - TP 380-10 (Foreign Disclosure Pamphlet)
 
 And ATP 5-19, Risk Management, 14 April 2014
-## Fork the Template 
+## Providing Feedback and Contributing
+If you have feedback or would like to contribute to this template, please create an issue or pull request in the repository. Your feedback is valuable and will help improve the quality of template.
+
+## Fork the Template to Create Your Own Instructional Design Repository
 This is a template for instructional design. Fork this template to create your own instructional design repository for a course, training, or exchanges. 
 1. Select the Fork button in the upper right corner of the page.
 2. Select your account or organization to fork the repository into.
