@@ -37,6 +37,10 @@ Navigate inside the main repository directory and execute the following command:
    ```BASH
    git pull
    ```
+## For Students
+1. **Read the Course Materials**: Start with [Course_Syllabus.md](/Development-Training_Name/4-Implement/POI-Course_Name/Course_Syllabus.md).
+2. **Review the Course Schedule**: Familiarize yourself with the course schedule in [Course_Schedule.md](/Development-Training_Name/4-Implement/POI-Course_Name/Course_Schedule.md).
+3. **Complete the Coursework**: Work through the course materials, including lesson plans, audio-visual content, and practical exercises.
 
 ## For Developers
 1. **Read the Developer Guide**: Start with [Developer Guide.md](/Development-Training_Name/Developer%20Guide.md).
@@ -106,8 +110,6 @@ Creating a Line Break with a Line can help when sorting content. Use three (3) -
 
 ### Moving to Slides
 `##### SLIDE`  should be used to show movement to a new slide. This will allow collapsing and expanding slide instructions to be represented on the table of contents.
-
----
 
 Spacing and newlines can cause differences in how Obsidian renders markdown. It is essential to include a new line after a "---" line break for proper rendering. 
 --- 
