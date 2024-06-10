@@ -1,4 +1,5 @@
-# Insturctional Design Template
+# Instructional Design Template
+
 This template is designed to assist in the development of training materials for the United States Army. The structure is based on the Experiential Learning Model (ELM) and the TRADOC Pamphlets for Course Development.
 
 Reference to the following Doctrine from [TRADOC Administrative Publications](https://adminpubs.tradoc.army.mil/pamphlets.html):
@@ -11,45 +12,39 @@ Reference to the following Doctrine from [TRADOC Administrative Publications](ht
 - TP 350-70-14
 - TP 380-10 (Foreign Disclosure Pamphlet)
 
-## Download Template
-1. Graphical Option: Use the Download Button Above
-1. Terminal Option (Recommended) to keep the template updated:
+And ATP 5-19, Risk Management, 14 April 2014
 
-```BASH
-git clone https://github.com/irregularchat/template-instructional-design.git
-```
+## Download Template
+1. **Graphical Option**: Use the Download Button Above.
+2. **Terminal Option (Recommended)** to keep the template updated:
+   ```BASH
+   git clone https://github.com/irregularchat/template-instructional-design.git
+   ```
 
 ## Update Template
-You must navigate to be inside the directory poi-development and execute the following command:
-```BASH
-git pull
-```
+Navigate inside the directory `poi-development` and execute the following command:
+   ```BASH
+   git pull
+   ```
 
-## Using the Template to Develop Training
-1. Create a fork of the repository to your account and name it appropriately after the training you are developing.
-1. Use the Developer Workbook to analyze the jobs, tasks, and audience to be trained.
-1. Develop the training materials in the POI-Development directory.
-1. Use the provided templates to create the training materials.
+## For Developers
+1. **Read the Developer Guide**: Start with [Developer Guide.md](./Developer%20Guide.md).
+2. **Review the Developer Workbook**: Familiarize yourself with [Developer_Workbook.xlsx](./Developer_Workbook.xlsx).
+3. **Start with Analysis**: Begin by defining the problem statement in [1-Analysis/1.ProblemStatement.md](./Development-Training_Name/1-Analysis/1.ProblemStatement.md).
+4. **Follow the Development Process**:
+   - Complete the DOTMLPF analysis in [2.DOTMLPF.md](./Development-Training_Name/1-Analysis/2-Task_Analysis/2.DOTMLPF.md).
+   - Continue through task analysis, individual task analysis, DIF, ITA, SKM, performance measures, and TAP.
 
- Make sure you are using git add, commit, and push to save your work.
-
-## Background of Process and Format
-This structure was developed after over a year of course development and instruction, with TRADOC Doctrine and the SWCS Course Developer Course referenced. Fair warning, there is a lot of reading.
-
-The structure in this notebook diverts from Doctrine and SWCS Instruction where needed based on the unique unit limitations, requirements, and size of unit training compared to training at a center of excellence (CoE)
-
-### Developing Training (Writing)
-Start with "POI Development"  and use the provided "Developer Workbook" to analyze jobs, tasks, and the audience to be trained.
-
----
-### Teaching Developed Training (Reading)
-Start with "POI Training" and Find the Lesson Plans, the Audio Visual Content, and the Evaluations and set up a training area accordingly.
-
-## How to Use This Notebook 
-### Obsidian 
-This markdown structure is best when used with [Obsidian](https://obsidian.md/) 
-
-To expand or collapse sections/headers in a note Top Menu > Insert > {"Fold" or “Unfold”}  or configure a keyboard shortcut using the app preferences
+## For Instructors
+1. **Read the Developer Guide**: Start with [Developer Guide.md](./Developer%20Guide.md) to understand the development process.
+2. **Review the Course Materials**:
+   - Find the lesson plans and audio-visual content in the `4-Implement` directory.
+   - Set up the training area according to the provided instructions in [Environment_Setup.md](./Development-Training_Name/4-Implement/POI-Course_Name/Classroom_Setup/Environment_Setup.md).
+   - Use the course syllabus and evaluation materials to guide the training process.
+   - Example starting points:
+     - [Course_Syllabus-POI-NAME.md](./Development-Training_Name/4-Implement/POI-Course_Name/Course_Syllabus-POI-NAME.md)
+     - [Instructor_Evaluation](./Development-Training_Name/4-Implement/POI-Course_Name/Evaluation/Instructor_Evaluation)
+     - [Training_Evaulation_and_Outlines_(TE&O).md](./Development-Training_Name/4-Implement/POI-Course_Name/Evaluation/Training_Evaulation_and_Outlines_(TE&O).md)
 
 ### ELM
 Training is designed primarily based on the Experiential Learning Model (ELM), taught at SWCS Course Faculty Course, and is a private sector standard.
@@ -58,10 +53,8 @@ If you have not been to the SWCS Course Faculty Course yet, study the following 
 - [Gagne's Nine Events of Instruction](https://youtu.be/-31fCUQ2htU)
 ### Academic Hour
 50 minutes is an “hour” to allow students to take a 10-minute break or two 5-minute breaks. 
-
 ### Templates
 Templates can be notes or entire folders. Duplicate templates as needed. 
-
 ### Comments
 Comments are between percent symbols (\%%) and may describe. %%This is an inline comment%%
 
@@ -73,8 +66,6 @@ Comments are between percent symbols (\%%) and may describe. %%This is an inline
 Comments can be single-line or multi-line%%
 ### Tags
 #Knowledge, #Skills, #Resources, and #SupportingTasks should be added as tags to allow for quick sorting and linking
-
-## Notes for Instructors
 
 ### NOTES
 NOTE is used when an instructor is supposed to perform an action or deliver instruction to students. 
@@ -108,26 +99,40 @@ Creating a Line Break with a Line can help when sorting content. Use three (3) -
 ---
 
 Spacing and newlines can cause differences in how Obsidian renders markdown. It is essential to include a new line after a "---" line break for proper rendering. 
+--- 
+
+## For Instructors and Students: Creating Issues
+1. **Identify the Section**: Clearly identify the section of the training material that requires attention.
+2. **Create an Issue**: Use the GitHub issue tracker to create a new issue.
+   - **Title**: Issue with [Specific Section Name]
+   - **Description**: Describe the issue in detail. Include any relevant information such as discrepancies, errors, or suggestions for improvement.
+   - **Labels**: Apply relevant labels such as "bug", "enhancement", or "question".
+
+## Background of Process and Format
+This structure was developed after over a year of course development and instruction, with TRADOC Doctrine and the SWCS Course Developer Course referenced.
+## How to Use This Notebook 
+### Obsidian 
+This markdown structure is best when used with [Obsidian](https://obsidian.md/) 
+
+To expand or collapse sections/headers in a note Top Menu > Insert > {"Fold" or “Unfold”}  or configure a keyboard shortcut using the app preferences
 
 ## Troubleshooting
-
 ### sed on MacOS
-- Problem: sed for Mac is missing some options which limit cross-compatibility when replacing a string. 
-- Solution: Install gnu-sed and map the PATH as needed. `brew install gnu-sed`
+- **Problem**: sed for Mac is missing some options which limit cross-compatibility when replacing a string.
+- **Solution**: Install gnu-sed and map the PATH as needed.
+   ```BASH
+   brew install gnu-sed
+   ```
 
-### Replace a string in all documents 
-in the directory and sub-directories at once. This action should be its own commit to undo any unwanted changes easily. 
-- Solution: 
-```BASH
-grep -RiIl 'Original_String';sleep 5;grep -RiIl 'Original_String' | xargs sed -i 's/Original_String/Replacement_New_String/g'
-```
-
-How to Use? Replace Original_String and Replacement_New_String above and input into Terminal inside the desired directory. 
-[source](https://www.internalpointers.com/post/linux-find-and-replace-text-multiple-files)
+### Replace a string in all documents
+- **Solution**:
+   ```BASH
+   grep -RiIl 'Original_String';sleep 5;grep -RiIl 'Original_String' | xargs sed -i 's/Original_String/Replacement_New_String/g'
+   ```
 
 ### Run Git Commands on Multiple Directories
-- Problem: With multiple git clones, it can be easy to forget which directories need to be updated using `git pull`
-- The solution, finding ./git and run the git command on the enclosing directory
-```BASH
-find . -name .git -print -execdir git pull \;
-```
+- **Solution**:
+   ```BASH
+   find . -name .git -print -execdir git pull \;
+   ```
+
