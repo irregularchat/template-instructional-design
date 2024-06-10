@@ -15,16 +15,22 @@ Reference to the following Doctrine from [TRADOC Administrative Publications](ht
 - TP 380-10 (Foreign Disclosure Pamphlet)
 
 And ATP 5-19, Risk Management, 14 April 2014
-
-## Download Template
+## Fork the Template 
+This is a template for instructional design. Fork this template to create your own instructional design repository for a course, training, or exchanges. 
+1. Select the Fork button in the upper right corner of the page.
+2. Select your account or organization to fork the repository into.
+3. Update the repository name and description to match your course or training.
+4. Update the README.md file with your course or training information.
+5. Begin developing your course or training materials.
+## Download the Repository to Your Local Machine
 1. **Graphical Option**: Use the Download Button Above.
-2. **Terminal Option (Recommended)** to keep the template updated:
+2. **Terminal Option (Recommended)** to keep the repository updated. This URL is for the template repository you will need to change it to your repository URL.
    ```BASH
    git clone https://github.com/irregularchat/template-instructional-design.git
    ```
 
-## Update Template
-Navigate inside the directory `poi-development` and execute the following command:
+## Update the Repository
+Navigate inside the main repository directory and execute the following command:
    ```BASH
    git pull
    ```
@@ -32,21 +38,21 @@ Navigate inside the directory `poi-development` and execute the following comman
 ## For Developers
 1. **Read the Developer Guide**: Start with [Developer Guide.md](/Development-Training_Name/Developer%20Guide.md).
 2. **Review the Developer Workbook**: Familiarize yourself with [Developer_Workbook.xlsx](/Development-Training_Name/Developer_Workbook.xlsx).
-3. **Start with Analysis**: Begin by defining the problem statement in [1-Analysis/1.ProblemStatement.md](/Development-Training_Name/Development-Training_Name/1-Analysis/1.ProblemStatement.md).
+3. **Start with Analysis**: Begin by defining the problem statement in [1.Problem Statement.md](/Development-Training_Name/1-Analysis/1.ProblemStatement.md).
 4. **Follow the Development Process**:
-   - Complete the DOTMLPF analysis in [2.DOTMLPF.md](/Development-Training_Name/Development-Training_Name/1-Analysis/2-Task_Analysis/2.DOTMLPF.md).
+   - Complete the DOTMLPF analysis in [2.DOTMLPF.md](/Development-Training_Name/1-Analysis/2-Task_Analysis/2.DOTMLPF.md).
    - Continue through task analysis, individual task analysis, DIF, ITA, SKM, performance measures, and TAP.
 
 ## For Instructors
 1. **Read the Developer Guide**: Start with [Developer Guide.md](/Development-Training_Name/Developer%20Guide.md) to understand the development process.
 2. **Review the Course Materials**:
    - Find the lesson plans and audio-visual content in the `4-Implement` directory.
-   - Set up the training area according to the provided instructions in [Environment_Setup.md](/Development-Training_Name/Development-Training_Name/4-Implement/POI-Course_Name/Classroom_Setup/Environment_Setup.md).
+   - Set up the training area according to the provided instructions in [Environment_Setup.md](/Development-Training_Name/4-Implement/POI-Course_Name/Classroom_Setup/Environment_Setup.md).
    - Use the course syllabus and evaluation materials to guide the training process.
    - Example starting points:
-     - [Course_Syllabus-POI-NAME.md](/Development-Training_Name/Development-Training_Name/4-Implement/POI-Course_Name/Course_Syllabus-POI-NAME.md)
-     - [Instructor_Evaluation](/Development-Training_Name/Development-Training_Name/4-Implement/POI-Course_Name/Evaluation/Instructor_Evaluation)
-     - [Training_Evaulation_and_Outlines_(TE&O).md](/Development-Training_Name/Development-Training_Name/4-Implement/POI-Course_Name/Evaluation/Training_Evaulation_and_Outlines_(TE&O).md)
+     - [Course_Syllabus-POI-NAME.md](/Development-Training_Name/4-Implement/POI-Course_Name/Course_Syllabus-POI-NAME.md)
+     - [Instructor_Evaluation](/Development-Training_Name/4-Implement/POI-Course_Name/Evaluation/Instructor_Evaluation)
+     - [Training_Evaulation_and_Outlines_(TE&O).md](/Development-Training_Name/4-Implement/POI-Course_Name/Evaluation/Training_Evaulation_and_Outlines_(TE&O).md)
 
 ### ELM
 Training is designed primarily based on the Experiential Learning Model (ELM), taught at SWCS Course Faculty Course, and is a private sector standard.
