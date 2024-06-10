@@ -2,6 +2,8 @@
 
 This template is designed to assist in the development of training materials for the United States Army. The structure is based on the Experiential Learning Model (ELM) and the TRADOC Pamphlets for Course Development.
 
+To learn more about using git and markdown for unit training, see the [Enhancing Unit Training with Git and Markdown](Git-For_Unit_Training.md) document.
+
 Reference to the following Doctrine from [TRADOC Administrative Publications](https://adminpubs.tradoc.army.mil/pamphlets.html):
 - TP 350-70-1
 - TP 350-70-3
