@@ -46,7 +46,7 @@ By using Git and Markdown, we can create a dynamic and interactive training libr
 
 ## Recommendations for Improvement
 ### Use a Git based Version Control System
-For Unclassified Training Materials for Unit Training, Sergeants Time Training, and Non-Formal Training as well as Subject Matter Expert (SME) Exhanges use a git based version control system. Git based version control systems are free, open-source, and widely used in the software development industry. They provide a robust platform for managing training materials, tracking changes, and collaborating with team members.
+For unclassified training materials for unit training, Sergeants Time Training (STT), and Non-Formal Training as well as Subject Matter Expert (SME) Exhanges use a git based version control system. Git based version control systems are free, open-source, and widely used in the software development industry. They provide a robust platform for managing training materials, tracking changes, and collaborating with team members.
 These are available on the internet, to self-host, and on government networks.
 
 1. **Expand Content**: Continuously develop and expand the training content available on the platform.
