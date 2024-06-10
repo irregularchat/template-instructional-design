@@ -20,7 +20,7 @@ The use of slides instead of detailed lesson plans has led to several issues:
 - Lack of transparency and processes for updating materials and receiving feedback.
 - Limited ability to control versions and expand training content efficiently.
 
-### The Possible Solution: Git and Markdown
+### The Solution: Git and Markdown
 By using Git and Markdown, we can create a dynamic and interactive training library that addresses these problems:
 - **Training Library using Git and Markdown**: Allows easy customization, rapid updates, and instant feedback.
 - **Unit Training Knowledge Management**: Provides a platform for managing training materials without proprietary bottlenecks.
