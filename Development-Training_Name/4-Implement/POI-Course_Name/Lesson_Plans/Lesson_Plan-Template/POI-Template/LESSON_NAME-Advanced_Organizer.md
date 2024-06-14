@@ -15,6 +15,7 @@ Given an environment that allows the students to engage with one another and the
 | Intended Audience           | [Describe the target audience]   |
 | Learning Domain             | [Cognitive, Affective, etc.]     |
 | Training Resources Required | [List resources required]        |
+| Total Duration              | [Total duration of the lesson]   |
 
 ---
 
