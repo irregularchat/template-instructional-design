@@ -38,7 +38,7 @@ Given an environment that allows the students to engage with one another and the
 - **Tell an interesting anecdote** or recall a recent current event pertaining to the lesson topic to gain the students' attention and motivate them to learn the lesson material. This step does not need to be the exact skill being trained but bring students to the topic by piquing their interest, by identifying the problem of which the skill is the solution, or by showing the relevance of the skill to their lives.
 - **Make students aware of the Army's Contemporary Operational Environment** factors such as physical environment, military capabilities, technology, and information.
 
-#### Example:
+#### Example Scenario for Concrete Experience (CE) Use Otheres and then delte this section
 1. Ask students to recall a recent news story related to misinformation or disinformation.
 2. Divide students into small groups and have them discuss the following:
     1. What was the news story about?
@@ -53,7 +53,7 @@ Given an environment that allows the students to engage with one another and the
 ## Publish and Process
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
-| 05        | Publish and Process  | [Topic_Goes_Here]           |
+| 05         | Publish and Process  | [Topic_Goes_Here]           |
 
 ### Instructions:
 - **Publish and Process (P&P) SC, Instructor Managed (facilitated):**
