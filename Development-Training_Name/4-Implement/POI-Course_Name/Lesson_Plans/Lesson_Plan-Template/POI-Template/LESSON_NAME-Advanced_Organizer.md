@@ -74,6 +74,7 @@ Given an environment that allows the students to engage with one another and the
     2. Compare and contrast the previous guidance for creating complex passwords.
     3. Demonstrate how secure and memorable passphrases are.
 
+################BREAK################
 ---
 
 ### Develop
@@ -102,7 +103,7 @@ Given an environment that allows the students to engage with one another and the
 ### Check On Learning
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
-| 03         | Check On Learning    | [Topic_Goes_Here]           |
+| 10         | Check On Learning    | [Topic_Goes_Here]           |
 
 #### Instructions:
 1. Question: What are the key indicators of misinformation?
