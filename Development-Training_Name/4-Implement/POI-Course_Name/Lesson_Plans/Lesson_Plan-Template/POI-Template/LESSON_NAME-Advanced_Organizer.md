@@ -19,7 +19,7 @@ Given an environment that allows the students to engage with one another and the
 
 ---
 
-# Performance Steps
+## Performance Steps
 1. [Describe the first step]
 2. [Describe the second step]
 3. [Describe the third step]
@@ -27,18 +27,18 @@ Given an environment that allows the students to engage with one another and the
 
 ---
 
-# Lesson ELM Steps
+## Lesson ELM Steps
 
-## Concrete Experience
+### Concrete Experience
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
 | 15-20          | Concrete Experience  | [Topic_Goes_Here]           |
 
-### Instructions:
+#### Instructions:
 - **Tell an interesting anecdote** or recall a recent current event pertaining to the lesson topic to gain the students' attention and motivate them to learn the lesson material. This step does not need to be the exact skill being trained but bring students to the topic by piquing their interest, by identifying the problem of which the skill is the solution, or by showing the relevance of the skill to their lives.
 - **Make students aware of the Army's Contemporary Operational Environment** factors such as physical environment, military capabilities, technology, and information.
 
-#### Example Scenario for Concrete Experience (CE) Use Otheres and then delte this section
+##### Example Scenario for Concrete Experience (CE) Use Otheres and then delte this section
 1. Ask students to recall a recent news story related to misinformation or disinformation.
 2. Divide students into small groups and have them discuss the following:
     1. What was the news story about?
@@ -50,12 +50,12 @@ Given an environment that allows the students to engage with one another and the
 
 ---
 
-## Publish and Process
+### Publish and Process
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
 | 05         | Publish and Process  | [Topic_Goes_Here]           |
 
-### Instructions:
+#### Instructions:
 - **Publish and Process (P&P) SC, Instructor Managed (facilitated):**
     1. Ask students “what was difficult about identifying misinformation in the news story.”
     2. Introduce the learning objectives.
@@ -63,12 +63,12 @@ Given an environment that allows the students to engage with one another and the
 
 ---
 
-## Generalize New Information
+### Generalize New Information
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
 | 45         | Generalize New Information | [Topic_Goes_Here] |
 
-### Instructions:
+#### Instructions:
 - **Generalize New Information (GNI) Instructor Centered:**
     1. Go over the visual graphic on the speed of cracking passwords.
     2. Compare and contrast the previous guidance for creating complex passwords.
@@ -76,35 +76,35 @@ Given an environment that allows the students to engage with one another and the
 
 ---
 
-## Develop
+### Develop
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
 | 15         | Develop              | [Topic_Goes_Here]           |
 
-### Instructions:
+#### Instructions:
 - **Develop (Future Use) SC, Instructor Managed (facilitated):**
     1. Ask students how they will use this technique.
 
 ---
 
-## Apply
+### Apply
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
 | 25-30         | Apply                | [Topic_Goes_Here]           |
 
-### Instructions:
+#### Instructions:
 - **Apply (example: practical exercises, exam, etc.) Student Centered:**
     1. Ask students to write a strong passphrase on the board.
     2. **Note**: After the Apply phase, you must provide feedback, and then you should have some closing or wrap-up of the lesson.
 
 ---
 
-## Check On Learning
+### Check On Learning
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
 | 03         | Check On Learning    | [Topic_Goes_Here]           |
 
-### Instructions:
+#### Instructions:
 1. Question: What are the key indicators of misinformation?
     - **Answer**: [Expected answer]
 2. Question: How can you effectively counter misinformation?
@@ -116,12 +116,12 @@ Given an environment that allows the students to engage with one another and the
 
 ---
 
-## Lesson Summary
+### Lesson Summary
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
 | 03         | Summary              | [Topic_Goes_Here]           |
 
-### Instructions:
+#### Instructions:
 1. Review the key points from each Learning Step Activity (LSA).
 2. Emphasize the importance of the skills and knowledge gained.
 3. Questions?
