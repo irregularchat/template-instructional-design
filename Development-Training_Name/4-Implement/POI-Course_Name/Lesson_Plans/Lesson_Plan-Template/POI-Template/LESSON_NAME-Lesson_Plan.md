@@ -47,17 +47,17 @@ This 2-hour lesson is an introductory level orientation to Commissary anti-robbe
 
 #### Terminal Learning Objective (TLO): 
 
-- **Action**: Approved_Verb Object Qualifier
-- **Condition**: 
-- **Standard**: Approved_Verb Object Qualifier Level of Proficiency 
+> **Action**: Approved_Verb Object Qualifier
+> **Condition**: 
+> **Standard**: Approved_Verb Object Qualifier Level of Proficiency 
 
 ---
 
 #### Enabling Learning Objective (ELO) / Learning Step Activity (LSA):
  
-- **Action**: Approved_Verb Object Qualifier
-- **Condition**: 
-- **Standard**: Approved_Verb Object Qualifier Level of Proficiency 
+> **Action**: Approved_Verb Object Qualifier
+> **Condition**: 
+> **Standard**: Approved_Verb Object Qualifier Level of Proficiency 
 
 ---
 
@@ -240,16 +240,16 @@ NOTE: Note goes here
 
 **Development**
 
-- **Question**: 
+**Question**: 
 > /Why is knowing about MacOS and the apple terms of use important for your mission?
 
 **Check on learning:** 
 
-- **Question**: /Are you allowed to Virtualize or Copy MacOS legally?
-  - **Answer:** /No, Apple prohibits Virtualization of MacOS if not on a MacOS Device.
+**Question**: /Are you allowed to Virtualize or Copy MacOS legally?
+  **Answer:** /No, Apple prohibits Virtualization of MacOS if not on a MacOS Device.
 
-- **Question**: /Can Government owned MacOS Whiteline computers be used for Operations? 
-  - **Answer:** /Yes. They also have better battery life and are common devices used globally 
+**Question**: /Can Government owned MacOS Whiteline computers be used for Operations? 
+  **Answer:** /Yes. They also have better battery life and are common devices used globally 
 
 ---
 
