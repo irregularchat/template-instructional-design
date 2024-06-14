@@ -31,7 +31,7 @@ Given an environment that allows the students to engage with one another and the
 ## Concrete Experience
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
-| 03         | Concrete Experience  | [Topic_Goes_Here]           |
+| 15-20          | Concrete Experience  | [Topic_Goes_Here]           |
 
 ### Instructions:
 - **Tell an interesting anecdote** or recall a recent current event pertaining to the lesson topic to gain the students' attention and motivate them to learn the lesson material.
@@ -52,7 +52,7 @@ Given an environment that allows the students to engage with one another and the
 ## Publish and Process
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
-| 03         | Publish and Process  | [Topic_Goes_Here]           |
+| 05        | Publish and Process  | [Topic_Goes_Here]           |
 
 ### Instructions:
 - **Publish and Process (P&P) SC, Instructor Managed (facilitated):**
@@ -65,7 +65,7 @@ Given an environment that allows the students to engage with one another and the
 ## Generalize New Information
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
-| 03         | Generalize New Information | [Topic_Goes_Here] |
+| 45         | Generalize New Information | [Topic_Goes_Here] |
 
 ### Instructions:
 - **Generalize New Information (GNI) Instructor Centered:**
@@ -78,7 +78,7 @@ Given an environment that allows the students to engage with one another and the
 ## Develop
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
-| 03         | Develop              | [Topic_Goes_Here]           |
+| 15         | Develop              | [Topic_Goes_Here]           |
 
 ### Instructions:
 - **Develop (Future Use) SC, Instructor Managed (facilitated):**
@@ -89,7 +89,7 @@ Given an environment that allows the students to engage with one another and the
 ## Apply
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
-| 03         | Apply                | [Topic_Goes_Here]           |
+| 25-30         | Apply                | [Topic_Goes_Here]           |
 
 ### Instructions:
 - **Apply (example: practical exercises, exam, etc.) Student Centered:**
