@@ -35,7 +35,7 @@ Given an environment that allows the students to engage with one another and the
 | 15-20          | Concrete Experience  | [Topic_Goes_Here]           |
 
 ### Instructions:
-- **Tell an interesting anecdote** or recall a recent current event pertaining to the lesson topic to gain the students' attention and motivate them to learn the lesson material.
+- **Tell an interesting anecdote** or recall a recent current event pertaining to the lesson topic to gain the students' attention and motivate them to learn the lesson material. This step does not need to be the exact skill being trained but bring students to the topic by piquing their interest, by identifying the problem of which the skill is the solution, or by showing the relevance of the skill to their lives.
 - **Make students aware of the Army's Contemporary Operational Environment** factors such as physical environment, military capabilities, technology, and information.
 
 #### Example:
