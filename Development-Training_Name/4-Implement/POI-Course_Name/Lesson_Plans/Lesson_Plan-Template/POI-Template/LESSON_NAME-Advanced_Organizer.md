@@ -1,10 +1,11 @@
-# Learning Objective
-### **Action:** __[Approved-Verb] [Object] [Qualifier].__
+# NAME OF LESSON
+## Learning Objective
+ **Action:** __[Approved-Verb] [Object] [Qualifier].__
 
-### **Conditions:** 
+ **Conditions:** 
 Given an environment that allows the students to engage with one another and the cadre openly, handouts, and research capabilities.
 
-### **Standards:** 
+ **Standards:** 
 [Terminal Learning Objective (TLO) Standards]
 
 ---
