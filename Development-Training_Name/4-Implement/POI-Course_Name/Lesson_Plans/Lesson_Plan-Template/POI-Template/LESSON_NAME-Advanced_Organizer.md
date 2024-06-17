@@ -3,7 +3,7 @@
  **Action:** __[Approved-Verb] [Object] [Qualifier].__
 
  **Conditions:** 
-Given an environment that allows the students to engage with one another and the cadre openly, handouts, and research capabilities.
+[ ex. Given an environment that allows the students to engage with one another and the cadre openly, handouts, and research capabilities. take into account what the students already know and what they need to know to be successful in the lesson and the learning environment requirements.]
 
  **Standards:** 
 [Terminal Learning Objective (TLO) Standards]
