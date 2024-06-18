@@ -51,8 +51,8 @@
       - Unlikely
       - Very Unlikely
 
-11. **Question:** Which news sources do you consider to be more pro-military?
+11. **Question:** Which news sources do you consider to be most friendly towards the military?
    - **Response Type:** Multiple Select
 
-12. **Question:** Which news sources do you consider to be more anti-military?
+12. **Question:** Which news sources do you consider to be least friendly to the military?
    - **Response Type:** Multiple Select
