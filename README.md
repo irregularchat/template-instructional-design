@@ -38,13 +38,13 @@ Navigate inside the main repository directory and execute the following command:
    git pull
    ```
 ## For Students
-1. **Read the Course Materials**: Start with [Course_Syllabus.md](/Development-Training_Name/4-Implement/POI-Course_Name/Course_Syllabus.md).
-2. **Review the Course Schedule**: Familiarize yourself with the course schedule in [Course_Schedule.md](/Development-Training_Name/4-Implement/POI-Course_Name/Course_Schedule.md).
+1. **Read the Course Materials**: Start with [Course_Syllabus-POI-NAME](/Development-Training_Name/4-Implement/Course_Syllabus-POI-NAME.md)
+2. **Review the Course Schedule**: Familiarize yourself with the course schedule in [2-Course_Schedule](/Development-Training_Name/3-Design/2-Course_Schedule.md)
 3. **Complete the Coursework**: Work through the course materials, including lesson plans, audio-visual content, and practical exercises.
 
 ## For Developers
-1. **Read the Developer Guide**: Start with [Developer Guide.md](/Development-Training_Name/Developer%20Guide.md).
-2. **Review the Developer Workbook**: Familiarize yourself with [Developer_Workbook.xlsx](/Development-Training_Name/Developer_Workbook.xlsx).
+1. **Read the Developer Guide**: Start with [Developer Guide](/Development-Training_Name/Developer%20Guide.md)
+2. **Review the Developer Workbook**: Familiarize yourself with [Developer_Workbook.xlsx](/Development-Training_Name/Developer_Workbook.xlsx.md)
 3. **Start with Analysis**: Begin by defining the problem statement in [1.Problem Statement.md](/Development-Training_Name/1-Analysis/1.ProblemStatement.md).
 4. **Follow the Development Process**:
    - Complete the DOTMLPF analysis in [2.DOTMLPF.md](/Development-Training_Name/1-Analysis/2-Task_Analysis/2.DOTMLPF.md).
