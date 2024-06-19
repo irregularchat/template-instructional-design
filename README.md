@@ -37,6 +37,8 @@ Navigate inside the main repository directory and execute the following command:
    ```BASH
    git pull
    ```
+
+If you have made local changes this will not work or require manual merging of content. An update may bring about changes in the file structure or content. 
 ## For Students
 1. **Read the Course Materials**: Start with [Course_Syllabus-POI-NAME](/Development-Training_Name/4-Implement/Course_Syllabus-POI-NAME.md)
 2. **Review the Course Schedule**: Familiarize yourself with the course schedule in [2-Course_Schedule](/Development-Training_Name/3-Design/2-Course_Schedule.md)
