@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "5392b945c0f20ff8",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf12401de6c263e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "633680c19d47ab13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2cd3d74f9b111b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1261a3dd0a6eeba6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56aa7cd44901a79a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b95c79c7c09ee025",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d43b3f056e0d0669",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5f8ef3f0ce0040a",
+    "type": "split",
+    "children": [
+      {
+        "id": "99a73f8e0413efd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee5dea827b870b2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0df64937241f5c78",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a0a2d3db5b84728e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4389a9bcdba40548",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "633680c19d47ab13",
+  "lastOpenFiles": [
+    "Development-Training_Name/1-Analysis/Developer Guide.md",
+    "Development-Training_Name/1-Analysis/Developer_Workbook.xlsx",
+    "Development-Training_Name/Developer_Workbook.xlsx.md",
+    "README.md",
+    "Development-Training_Name/Developer Guide.md",
+    "Development-Training_Name/4-Implement/Course_Syllabus-POI-NAME.md",
+    "Development-Training_Name/4-Implement/POI-Course_Name/Course_Syllabus.md",
+    "Development-Training_Name/3-Design/2-Course_Schedule.md",
+    "Development-Training_Name/4-Implement/POI-Course_Name"
+  ]
+}
