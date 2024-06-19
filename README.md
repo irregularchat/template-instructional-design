@@ -43,7 +43,7 @@ Navigate inside the main repository directory and execute the following command:
 3. **Complete the Coursework**: Work through the course materials, including lesson plans, audio-visual content, and practical exercises.
 
 ## For Developers
-1. **Read the Developer Guide**: Start with [Developer Guide](/Development-Training_Name/Developer%20Guide.md)
+1. **Read the Developer Guide**: Start with [Developer Guide](/Development-Training_Name/1-Analysis/0.Developer%20Guide.md)
 2. **Review the Developer Workbook**: Familiarize yourself with [Developer_Workbook.xlsx](/Development-Training_Name/Developer_Workbook.xlsx.md)
 3. **Start with Analysis**: Begin by defining the problem statement in [1.Problem Statement.md](/Development-Training_Name/1-Analysis/1.ProblemStatement.md).
 4. **Follow the Development Process**:
