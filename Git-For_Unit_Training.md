@@ -4,6 +4,8 @@ By integrating Git for version control with Markdown for easy markup into unit t
 ## Introduction
 This document outlines the process, advantages, and recommendations for using Git and Markdown for developing, managing, and delivering unit training. By leveraging Git, a low-cost, open-source version control system, and Markdown, a lightweight markup language, we can significantly improve the efficiency, transparency, and effectiveness of unit training.
 
+If you are looking for the template to begin developing see [here](https://github.com/irregularchat/template-instructional-design.git)
+
 ### Current Situation
 TRADOC's centralized system for approval and distribution of training materials has left several gaps in the training process, including:
 - Limited access to developed training resources by units.
