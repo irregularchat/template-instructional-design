@@ -53,15 +53,16 @@ If you have made local changes this will not work or require manual merging of c
    - Continue through task analysis, individual task analysis, DIF, ITA, SKM, performance measures, and TAP.
 
 ## For Instructors
-1. **Read the Developer Guide**: Start with [Developer Guide.md](/Development-Training_Name/Developer%20Guide.md) to understand the development process.
+1. **Read the Developer Guide**: Start with [Analysis_Instructions](/Development-Training_Name/1-Analysis/0.Analysis_Instructions.md) to understand the development process. 
 2. **Review the Course Materials**:
    - Find the lesson plans and audio-visual content in the `4-Implement` directory.
-   - Set up the training area according to the provided instructions in [Environment_Setup.md](/Development-Training_Name/4-Implement/POI-Course_Name/Classroom_Setup/Environment_Setup.md).
+   - Set up the training area according to the provided instructions in [Environment_Setup](/Development-Training_Name/4-Implement/Classroom_Setup/Environment_Setup.md)
+   - Ensure all the Handouts are stored or printed as necessary from the [Required_Handouts](/Development-Training_Name/4-Implement/Classroom_Setup/Required_Handouts.md)
    - Use the course syllabus and evaluation materials to guide the training process.
    - Example starting points:
-     - [Course_Syllabus-POI-NAME.md](/Development-Training_Name/4-Implement/POI-Course_Name/Course_Syllabus-POI-NAME.md)
-     - [Instructor_Evaluation](/Development-Training_Name/4-Implement/POI-Course_Name/Evaluation/Instructor_Evaluation)
-     - [Training_Evaulation_and_Outlines_(TE&O).md](/Development-Training_Name/4-Implement/POI-Course_Name/Evaluation/Training_Evaulation_and_Outlines_(TE&O).md)
+     - [Course Syllabus](/Development-Training_Name/4-Implement/Course_Syllabus-POI-NAME.md)
+     - [Instructor_Evaluation](/Development-Training_Name/4-Implement/POI-Course_Name/Evaluation/Instructor_Evaluation) #FIXME
+     - [Training_Evaulation_and_Outlines_(TE&O).md](/Development-Training_Name/4-Implement/POI-Course_Name/Evaluation/Training_Evaulation_and_Outlines_(TE&O).md) #FIXME
 
 ### ELM
 Training is designed primarily based on the Experiential Learning Model (ELM), taught at SWCS Course Faculty Course, and is a private sector standard.
