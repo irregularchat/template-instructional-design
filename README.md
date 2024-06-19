@@ -45,7 +45,7 @@ If you have made local changes this will not work or require manual merging of c
 3. **Complete the Coursework**: Work through the course materials, including lesson plans, audio-visual content, and practical exercises.
 
 ## For Developers
-1. **Read the Developer Guide**: Start with [Developer Guide](/Development-Training_Name/1-Analysis/0.Developer%20Guide.md)
+1. **Read the Developer Guide**: Start with [Developer Guide](Development-Training_Name/1-Analysis/0.1.Developer%20Guide.md)
 2. **Review the Developer Workbook**: Familiarize yourself with [Developer_Workbook.xlsx](/Development-Training_Name/Developer_Workbook.xlsx.md)
 3. **Start with Analysis**: Begin by defining the problem statement in [1.Problem Statement.md](/Development-Training_Name/1-Analysis/1.ProblemStatement.md).
 4. **Follow the Development Process**:
@@ -53,7 +53,7 @@ If you have made local changes this will not work or require manual merging of c
    - Continue through task analysis, individual task analysis, DIF, ITA, SKM, performance measures, and TAP.
 
 ## For Instructors
-1. **Read the Developer Guide**: Start with [Analysis_Instructions](/Development-Training_Name/1-Analysis/0.Analysis_Instructions.md) to understand the development process. 
+1. **Read the Developer Guide**: Start with [Analysis_Instructions](Development-Training_Name/1-Analysis/0.0.Analysis_Instructions.md) to understand the development process. 
 2. **Review the Course Materials**:
    - Find the lesson plans and audio-visual content in the `4-Implement` directory.
    - Set up the training area according to the provided instructions in [Environment_Setup](/Development-Training_Name/4-Implement/Classroom_Setup/Environment_Setup.md)
