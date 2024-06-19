@@ -16,7 +16,7 @@ TRADOC's centralized system for approval and distribution of training materials 
 - Lack of transparency and processes to push updates and take feedback.
 
 ### Current Problem
-The use of slides instead of detailed lesson plans has led to several issues:
+The use of slides exclusively instead of detailed lesson plans with slides has led to several issues:
 - Difficulty in communicating and setting up training environments based solely on slide content.
 - Challenges in transferring training content without extensive communication.
 - Lack of transparency and processes for updating materials and receiving feedback.
