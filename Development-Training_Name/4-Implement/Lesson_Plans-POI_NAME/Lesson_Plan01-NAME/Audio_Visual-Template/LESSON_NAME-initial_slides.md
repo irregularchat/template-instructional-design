@@ -1,3 +1,13 @@
+# CONTEXT
+This template is for general outline of the slides for a lesson plan. The slides are designed to be used in a classroom setting to guide the instructor through the lesson. The slides are designed to be used in conjunction with the lesson plan document.
+
+Slide Templates for PowerPoint, KeyNote, and LibreOffice Impress are available in this same directory `Audio_Visual-Template`.
+
+Developer should review the lesson plan document and create slides for each section of the lesson plan. Slides should be developed in a MASTER SLIDE DECK first which may contain much more detail than appropriate for presentation purposes. The MASTER SLIDE DECK is also where translated versions of the slides should be created. 
+
+Slides should be color coded with Yellow being English with details or English when presenting in a foreign language. When the MASTER SLIDE DECK is complete, the developer should create a copy of the MASTER SLIDE DECK and remove all slides that are not for presentation. Maintain the MASTER SLIDE DECK for future use and updates.
+---
+
 # Slide 1: Concrete Experience / Motivator
 ## Concrete Experience
 - Tell an interesting anecdote or recall a recent current event pertaining to the lesson topic to gain the students' attention and motivate them to learn the lesson material.
