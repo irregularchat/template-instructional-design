@@ -218,9 +218,8 @@ NOTE: Note goes here
 
 **Learning Step Activity Text:**
 
-> 1. /MacOS is Proprietary, and one of their terms of use prohibits the virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
-> 2. /Organic capabilities use MacOS as a Commercial off the Shelf (COTS) solution to control devices and allow user interaction. Being familiar with MacOS will enable Operations.
-
+> 1. %%Instructional step 1%%
+> 2. %%Instructional step 2%%
 #### SLIDE 1
 
 NOTE: Note goes here
@@ -242,15 +241,17 @@ NOTE: Note goes here
 **Development**
 
 **Question**: 
-> /Why is knowing about MacOS and the apple terms of use important for your mission?
+> %%Question goes here%%
 
 **Check on learning:** 
 
-**Question**: /Are you allowed to Virtualize or Copy MacOS legally?
-  **Answer:** /No, Apple prohibits Virtualization of MacOS if not on a MacOS Device.
+%%Question goes here%%
+> %%Answer goes here%%
+%%Question goes here%%
+> %%Answer goes here%%
+**Review/Summary:**
+%%Review/Summary goes here%%
 
-**Question**: /Can Government owned MacOS Whiteline computers be used for Operations? 
-  **Answer:** /Yes. They also have better battery life and are common devices used globally 
 
 ---
 
