@@ -98,13 +98,14 @@ Choose anti-robbery measures that are appropriate to the scenario based on your 
 #### Instructor Requirements
 
 An instructor must:
-
+%%Consider that an instructor will be put on the spot to answer questions, so they should be prepared to answer questions about the lesson. These requirements will shape the training, certs, and reading an instructor does long term for this content%%
 1. Review the entire lesson plan for each lesson they will cover.  
 2. Be able to obtain, access, and be familiar with the required material and equipment.
+3. Read and understand the referenced material.
 
 An instructor must attend the following training:
 
-1. TRADOC-approved faculty course
+1. {INSERT_Cert}
 2. {INSERT_Course}
 
 An instructor should:
