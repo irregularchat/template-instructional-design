@@ -137,19 +137,19 @@ Lesson Material, Ammo, Expendable, etc.
 
 ### Pre-Requisite Tasks
 
-1. 
+1. %%List any tasks that must be completed before the lesson can be taught.%%
 
 ---
 
 ### Knowledge Required
 
-1. 
+1. %%List any knowledge that the student must have before the lesson can be taught.%%
 
 ---
 
 ### Skills Required
 
-1. 
+1. %%List any skills that the student must have before the lesson can be taught.%%
 
 ---
 
@@ -157,15 +157,15 @@ Lesson Material, Ammo, Expendable, etc.
 
 ### Tasks Taught
 
-1. 
+1. %%List any tasks that will be taught in this lesson.%%
 
 ### Tasks Supported
 
-1. 
+1. %%List any tasks that will be supported by this lesson.%%
 
 ### Tasks Reinforced
 
-1. 
+1. %%List any tasks that will be reinforced by this lesson.%%
 
 ---
 
@@ -278,15 +278,15 @@ During this block of instruction, we...
 
 NOTE: Describe how the student must demonstrate accomplishment of the TLO. Refer the class to the Individual Student Assessment Plan.
 
-_You may include specifics regarding how the TLO will be assessed here, or you can refer the instructor to Appendix B – Assessment Statement and Assessment Plan._
+%%You may include specifics regarding how the TLO will be assessed here, or you can refer the instructor to Appendix B – Assessment Statement and Assessment Plan.%%
 
 ---
 
 ### Student Feedback Requirement
 
-NOTE: Feedback is essential to effective learning. Schedule and provide feedback on the evaluation and any information to help answer class questions about the test. Provide remedial training as needed.
+NOTE: %%Feedback is essential to effective learning. Schedule and provide feedback on the evaluation and any information to help answer class questions about the test. Provide remedial training as needed.%%
 
-_If not addressed elsewhere (like in a Test Administration Guide), you may include specific areas of feedback regarding student performance compared to the TLO standards here._
+%%If not addressed elsewhere (like in a Test Administration Guide), you may include specific areas of feedback regarding student performance compared to the TLO standards here.%%
 
 ## APPENDIX A - Audio Visual Masters
 
@@ -294,21 +294,21 @@ _If not addressed elsewhere (like in a Test Administration Guide), you may inclu
 
 | Sequence | Media Name              | Attachment or URL | Media Type |
 | -------- | ----------------------- | ----------------- | ---------- |
-| -        | Total Digital Media ZIP |                   | ZIP        | 
+| -        | Master Slide Deck - Lesson Name  |                   | ZIP        | 
 |          |                         | https://url.com   | PPT        |
 
 ## APPENDIX B - Assessment Statement and Assessment Plan
 
 ### Assessment Statement: 
-_An abbreviated statement that identifies how the lesson's TLO will be assessed as reflected in the Individual Student Assessment Plan (ISAP)._
+%%An abbreviated statement that identifies how the lesson's TLO will be assessed as reflected in the Individual Student Assessment Plan (ISAP).%%
 
 ---
 
 ### Assessment Plan: 
-_If not covered in Section V (Student Evaluation), you may do a detailed write-up of the assessment procedures for the lesson in this appendix.  You can include or refer to Test Control SOPs, procedures for procuring and grading tests, or procedures for conducting performance assessments.  It is OK to include performance checklists here, but DO NOT include written test items or their answers in this appendix._
+%%If not covered in Section V (Student Evaluation), you may do a detailed write-up of the assessment procedures for the lesson in this appendix.  You can include or refer to Test Control SOPs, procedures for procuring and grading tests, or procedures for conducting performance assessments.  It is OK to include performance checklists here, but DO NOT include written test items or their answers in this appendix.%%
 
 ## APPENDIX C - Practical Exercises and Solutions
 
-_If the lesson has a stand-alone PE requiring coordination and detailed explanations, it can be written here. The write-up should include basic lesson plan elements, including the PE objective(s), resources, the time required, safety and risk information, and general procedures._
+%%If the lesson has a stand-alone PE requiring coordination and detailed explanations, it can be written here. The write-up should include basic lesson plan elements, including the PE objective(s), resources, the time required, safety and risk information, and general procedures.%%
 
-_In TDCP, lessons using PE structure will have the PE included in this appendix.  If your lesson has a learning step/activity that uses PE as the method of instruction, do not use this appendix._
+%%In TDCP, lessons using PE structure will have the PE included in this appendix.  If your lesson has a learning step/activity that uses PE as the method of instruction, do not use this appendix.%%
