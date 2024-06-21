@@ -63,8 +63,8 @@ This %%amount of time%% lesson is an %%level of training%% orientation %%to Comm
 
 ### References
 
-1. Reference_1
-2. Reference_2
+1. Reference_1 - https://url.com (Label)
+2. Reference_2 - https://url.com (Label)
 
 ## SECTION 1: ADMINISTRATIVE DATA 
 
