@@ -295,8 +295,11 @@ NOTE: %%Feedback is essential to effective learning. Schedule and provide feedba
 
 | Sequence | Media Name              | Attachment or URL | Media Type |
 | -------- | ----------------------- | ----------------- | ---------- |
-| -        | Master Slide Deck - Lesson Name  |                   | ZIP        | 
-|          |                         | https://url.com   | PPT        |
+| -        | Master Slide Deck - Lesson Name  |                   | PPTX        | 
+| -        | Slide Deck - Lesson Name        |                   | PPTX        |
+| -        | Handout - Topic 1        |                   | PDF        |
+| -        | Handout - Topic 2        |                   | PDF        |
+| -        | Video File - Topic 3        |                   | MP4        |
 
 ## APPENDIX B - Assessment Statement and Assessment Plan
 
