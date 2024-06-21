@@ -41,7 +41,7 @@
 
 ### SCOPE OF LESSON
 
-This %%amount of time%% lesson is an %%level of training%% orientation %%to Commissary anti-robbery procedures%%. The **end state** of this lesson **%%is for new Commissary employees to be able to recall the necessary steps to take in the event of a robbery at the store%%**. The author's intent **is that new employees learn anti-robbery principles and procedures and choose appropriate actions during a series of scenario-based exercises. By the end of the lesson, new employees should have a solid grasp of the actions to take if the store is being robbed. This lesson is common to all Commissary departments and** links to other parts of the curriculum** by reinforcing the character attributes of accountability and responsibility.
+This %%amount of time%% lesson is an %%level of training%% orientation %%to topic-specific procedures%%. The end state of this lesson is for students to be able to recall and apply the necessary steps to effectively handle %%specified scenarios%%. The author's intent is that students learn key principles and procedures through a series of scenario-based exercises. By the end of the lesson, students should have a solid grasp of the actions to take in the relevant scenarios. This lesson is common to all %%applicable departments%% and links to other parts of the curriculum by reinforcing the character attributes of accountability and responsibility.
 
 ### Learning Objectives
 
