@@ -187,32 +187,71 @@ Lesson Material, Ammo, Expendable, etc.
 ---
 
 ## SECTION 2: LESSON INTRODUCTION
-
-**Concrete Experience / Motivator:** 
+NOTE: Go to Slide #
+### LESSON Phase: Concrete Experience / Motivator:
 NOTE: Tell an interesting anecdote based on your experience, or recall a recent current event pertaining to the lesson unit topic to gain the student's attention and motivate them to learn the lesson material. The student should be made aware of the Army's Contemporary Operational Environment factors such as the physical environment, military capabilities, technology, and information.
 
 > Example Paraphrase goes here.
 
-NOTE: Go to Slide X
+```markdown
+# Slide 1
+## Title: Lesson Title
+This is a example paragraph that goes here as a placeholder. This is a anchor linkback to [slide 1](#slide-1).
+    - Statement 1: "Something In Here." 
+    - Statement 2: "Something In Here." 
+
+Image or Video goes here:
+![Image](https://url.com)
+
+Table goes here:
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Data 1   | Data 2   | Data 3   |
+
+---
+
+```
+
+NOTE: Go to Slide #
+### LESSON Phase: Publish and Process
 
 **Instructional Lead-in:** 
 "The learning objectives for this block are to..."
 
-NOTE: Go to Slide X
 
 **Scope Statement:** During this ##.##-hour block of instruction, the students will...
 
-## Publish and Process
 
 NOTE: for 
 
 ---
 
 ## SECTION 3: LESSON PRESENTATION
+### LESSON Phase: Generalize New Information
 
 ### Learning Step Activity (LSA) X:  Learning Step Activity (LSA) Title.
 
-#### SLIDE X
+```markdown
+# Slide 1
+## Title: Lesson Title
+This is a example paragraph that goes here as a placeholder. This is a anchor linkback to [slide 1](#slide-1).
+    - Statement 1: "Something In Here." 
+    - Statement 2: "Something In Here." 
+
+Image or Video goes here:
+![Image](https://url.com)
+
+Table goes here:
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Data 1   | Data 2   | Data 3   |
+
+---
+
+```
+
+NOTE: Go to Slide #
+#### Slide #
 
 NOTE: Note goes here
 
@@ -220,26 +259,106 @@ NOTE: Note goes here
 
 > 1. %%Instructional step 1%%
 > 2. %%Instructional step 2%%
-#### SLIDE 1
+
+```markdown
+# Slide 1
+## Title: Lesson Title
+This is a example paragraph that goes here as a placeholder. This is a anchor linkback to [slide 1](#slide-1).
+    - Statement 1: "Something In Here." 
+    - Statement 2: "Something In Here." 
+
+Image or Video goes here:
+![Image](https://url.com)
+
+Table goes here:
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Data 1   | Data 2   | Data 3   |
+
+---
+
+```
+
+NOTE: Go to Slide #
+#### SLIDE #
 
 NOTE: Note goes here
 
-#### SLIDE 2
+```markdown
+# Slide 1
+## Title: Lesson Title
+This is a example paragraph that goes here as a placeholder. This is a anchor linkback to [slide 1](#slide-1).
+    - Statement 1: "Something In Here." 
+    - Statement 2: "Something In Here." 
 
+Image or Video goes here:
+![Image](https://url.com)
+
+Table goes here:
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Data 1   | Data 2   | Data 3   |
+
+---
+
+```
+
+NOTE: Go to Slide #
+#### SLIDE #
 NOTE: Note goes here
 
-#### SLIDE 3
+```markdown
+# Slide 1
+## Title: Lesson Title
+This is a example paragraph that goes here as a placeholder. This is a anchor linkback to [slide 1](#slide-1).
+    - Statement 1: "Something In Here." 
+    - Statement 2: "Something In Here." 
 
+Image or Video goes here:
+![Image](https://url.com)
+
+Table goes here:
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Data 1   | Data 2   | Data 3   |
+
+---
+
+```
+
+NOTE: Go to Slide #
+
+### Lesson Phase: Apply
+#### SLIDE #
 NOTE: Note goes here
 
 **Activity**
 
-#### SLIDE X
+```markdown
+# Slide 1
+## Title: Lesson Title
+This is a example paragraph that goes here as a placeholder. This is a anchor linkback to [slide 1](#slide-1).
+    - Statement 1: "Something In Here." 
+    - Statement 2: "Something In Here." 
 
+Image or Video goes here:
+![Image](https://url.com)
+
+Table goes here:
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Data 1   | Data 2   | Data 3   |
+
+---
+
+```
+
+### LESSON Phase: Assessment / Check On Learning
+NOTE: Go to Slide #
+#### SLIDE #
 NOTE: Note goes here
 
-**Development**
-
+### LESSON Phase: Develop
 **Question**: 
 > %%Question goes here%%
 
@@ -295,11 +414,11 @@ NOTE: %%Feedback is essential to effective learning. Schedule and provide feedba
 
 | Sequence | Media Name              | Attachment or URL | Media Type |
 | -------- | ----------------------- | ----------------- | ---------- |
-| -        | Master Slide Deck - Lesson Name  |                   | PPTX        | 
-| -        | Slide Deck - Lesson Name        |                   | PPTX        |
-| -        | Handout - Topic 1        |                   | PDF        |
-| -        | Handout - Topic 2        |                   | PDF        |
-| -        | Video File - Topic 3        |                   | MP4        |
+| -        | Master Slide Deck - PLACEHOLDER  |                   | PPTX        | 
+| -        | Slide Deck - PLACEHOLDER        |                   | PPTX        |
+| -        | Handout - PLACEHOLDER        |                   | PDF        |
+| -        | Handout - PLACEHOLDER        |                   | PDF        |
+| -        | Video File - PLACEHOLDER        |                   | MP4        |
 
 ## APPENDIX B - Assessment Statement and Assessment Plan
 
