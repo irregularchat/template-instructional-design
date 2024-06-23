@@ -1,104 +1,80 @@
 # CONTEXT
-This template is for general outline of the slides for a lesson plan. The slides are designed to be used in a classroom setting to guide the instructor through the lesson. The slides are designed to be used in conjunction with the lesson plan document.
+This template is for the general outline of slides for a lesson plan. The slides are designed to be used in a classroom setting to guide the instructor through the lesson. Slides should be developed in a MASTER SLIDE DECK first, which may contain more detail than appropriate for presentation purposes. Maintain the MASTER SLIDE DECK for future use and updates.
 
-Slide Templates for PowerPoint, KeyNote, and LibreOffice Impress are available in this same directory `Audio_Visual-Template`.
-
-Developer should review the lesson plan document and create slides for each section of the lesson plan. Slides should be developed in a MASTER SLIDE DECK first which may contain much more detail than appropriate for presentation purposes. The MASTER SLIDE DECK is also where translated versions of the slides should be created. 
-
-Slides should be color coded with Yellow being English with details or English when presenting in a foreign language. When the MASTER SLIDE DECK is complete, the developer should create a copy of the MASTER SLIDE DECK and remove all slides that are not for presentation. Maintain the MASTER SLIDE DECK for future use and updates.
 ---
 
 # Slide 1: Concrete Experience / Motivator
 ## Concrete Experience
 - Tell an interesting anecdote or recall a recent current event pertaining to the lesson topic to gain the students' attention and motivate them to learn the lesson material.
-- Make students aware of the Army's Contemporary Operational Environment factors such as physical environment, military capabilities, technology, and information.
+- Make students aware of the Army's Contemporary Operational Environment factors such as the physical environment, military capabilities, technology, and information.
 
 > Example Paraphrase goes here.
 
 ---
 
-# Slide 2: Instructional Lead-in
-## Instructional Lead-in
-- "The learning objectives for this block are to..."
+# Slide 2: Title
+## Enter the title of the lesson here.
 
 ---
 
-# Slide 3: Scope Statement
-## Scope of Lesson
-- During this ##.##-hour block of instruction, the students will...
-
----
-
-# Slide 4: Publish and Process
-## Publish and Process
+# Slide 3: Publish and Process
+## Discussion on Observations
+- Introduce the learning objectives.
+- Summarize observations from the Concrete Experience phase.
 - Discuss the relevance and application of the lesson material in the context of students' experiences and expectations.
 
 ---
 
-# Slide 5: Learning Step Activity (LSA) 1
-## Learning Step Activity (LSA) Title
-- **SLIDE X**: Note goes here
-  - Key points and subpoints for this learning step activity.
+# Slide 4: Generalize New Information
+## Key Concept 1
+- Introduce the first key concept or framework.
+- Describe its components and importance.
 
 ---
 
-# Slide 6: Activity for LSA 1
-## Activity
-- Describe the activity related to LSA 1.
-- Include instructions for group work or individual tasks.
+# Slide 5: Generalize New Information
+## Key Concept 2
+- Introduce the second key concept or framework.
+- Describe its components and importance.
 
 ---
 
-# Slide 7: Learning Step Activity (LSA) 2
-## Learning Step Activity (LSA) Title
-- **SLIDE X**: Note goes here
-  - Key points and subpoints for this learning step activity.
+# Slide 6: Generalize New Information
+## Key Concept 3
+- Introduce the third key concept or framework.
+- Describe its components and importance.
 
 ---
 
-# Slide 8: Activity for LSA 2
-## Activity
-- Describe the activity related to LSA 2.
-- Include instructions for group work or individual tasks.
+# Slide 7: Generalize New Information
+## Key Concept 4
+- Introduce the fourth key concept or framework.
+- Describe its components and importance.
 
 ---
 
-# Slide 9: Learning Step Activity (LSA) 3
-## Learning Step Activity (LSA) Title
-- **SLIDE X**: Note goes here
-  - Key points and subpoints for this learning step activity.
+# Slide 8: Develop
+## Applying Concepts
+- Describe how students will apply the concepts in their roles.
+- Include instructions for practice activities or exercises.
 
 ---
 
-# Slide 10: Activity for LSA 3
-## Activity
-- Describe the activity related to LSA 3.
-- Include instructions for group work or individual tasks.
+# Slide 9: Apply
+## Practical Exercise
+- Provide details on the practical exercise.
+- Include instructions for the students to follow.
 
 ---
 
-# Slide 11: Learning Step Activity (LSA) 4
-## Learning Step Activity (LSA) Title
-- **SLIDE X**: Note goes here
-  - Key points and subpoints for this learning step activity.
+# Slide 10: Apply
+## Review and Feedback
+- Have students present their findings.
+- Discuss the effectiveness of their methods and provide feedback.
 
 ---
 
-# Slide 12: Activity for LSA 4
-## Activity
-- Describe the activity related to LSA 4.
-- Include instructions for group work or individual tasks.
-
----
-
-# Slide 13: Summary of Learning Activities
-## Summary
-- Review the key points from each Learning Step Activity (LSA).
-- Emphasize the importance of the skills and knowledge gained.
-
----
-
-# Slide 14: Check on Learning
+# Slide 11: Check On Learning
 ## Assessment / Check On Learning
 - Question: [Insert question related to key concept]
   - **Answer**: [Expected answer]
@@ -109,13 +85,23 @@ Slides should be color coded with Yellow being English with details or English w
 
 ---
 
-# Slide 15: Lesson Summary
-## Review and Summary
-- During this block of instruction, we covered...
-  - Key learning step activity 1
-  - Key learning step activity 2
-  - Key learning step activity 3
-  - Key learning step activity 4
-- Questions?
+# Slide 12: Summary of Learning Activities
+## Summary
+- Recap the key points from each phase of the lesson.
+- Emphasize the importance of the skills and knowledge gained.
+
+---
+
+# Slide 13: References
+## References
+- List all references used in the lesson here.
+- Include URLs or citation details as necessary.
+
+---
+
+# Slide 14: Take a Break
+## Break Time
+- Announce a break.
+- Provide details on break duration and any instructions for after the break.
 
 ---
