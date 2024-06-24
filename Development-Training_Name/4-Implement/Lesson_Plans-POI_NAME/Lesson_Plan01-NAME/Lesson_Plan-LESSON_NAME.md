@@ -1,3 +1,4 @@
+# Lesson Name 
 ## SECTION 0: LESSON OVERVIEW
 
 ### Lesson Information
