@@ -8,7 +8,6 @@
 
 **Developer Point of Contact**: first.last@email.tld
 
----
 
 ### IMPORTANT
 
@@ -37,7 +36,6 @@
 - FD2 - This training product has been reviewed by the training developer in coordination with the \<INSERT ORG\> foreign disclosure officer. This training product can be used to instruct international military students when specific criteria are met.
 - FD3 - This training product has been reviewed by the developers in coordination with the \<INSERT ORGANIZATION\> foreign disclosure officer. This product CANNOT be used to instruct international military students.
 
----
 
 ### SCOPE OF LESSON
 
@@ -51,7 +49,6 @@ This %%amount of time%% lesson is an %%level of training%% orientation %%to topi
 > **Condition**: 
 > **Standard**: Approved_Verb Object Qualifier Level of Proficiency 
 
----
 
 #### Enabling Learning Objective (ELO) / Learning Step Activity (LSA):
  
@@ -59,7 +56,6 @@ This %%amount of time%% lesson is an %%level of training%% orientation %%to topi
 > **Condition**: 
 > **Standard**: Approved_Verb Object Qualifier Level of Proficiency 
 
----
 
 ### References
 
@@ -91,7 +87,6 @@ Choose anti-robbery measures that are appropriate to the scenario based on your 
 
 1. 
 
----
 
 ### Lesson Requirements
 
@@ -120,7 +115,6 @@ An instructor should:
 
 ##### Guidance for Assistant Instructors
 
----
 
 ### Equipment and Material Required for Instruction
 
@@ -133,25 +127,21 @@ Lesson Material, Ammo, Expendable, etc.
 | #Projector                       |               |                  | 1        | no         |
 | #Terminal_app                    | 1:1           | 1:2              |          |            |
 
----
 
 ### Pre-Requisite Tasks
 
 1. %%List any tasks that must be completed before the lesson can be taught.%%
 
----
 
 ### Knowledge Required
 
 1. %%List any knowledge that the student must have before the lesson can be taught.%%
 
----
 
 ### Skills Required
 
 1. %%List any skills that the student must have before the lesson can be taught.%%
 
----
 
 ## Supporting Tasks
 
@@ -167,7 +157,6 @@ Lesson Material, Ammo, Expendable, etc.
 
 1. %%List any tasks that will be reinforced by this lesson.%%
 
----
 
 ## Lesson Timeline
 
@@ -184,7 +173,6 @@ Lesson Material, Ammo, Expendable, etc.
 | y              |             | 5            | Apply                          |
 | y              |             | 3            | Assessment / Check On Learning |
 
----
 
 ## SECTION 2: LESSON INTRODUCTION
 NOTE: Go to Slide #
@@ -208,7 +196,6 @@ Table goes here:
 | -------- | -------- | -------- |
 | Data 1   | Data 2   | Data 3   |
 
----
 
 ```
 
@@ -224,7 +211,6 @@ NOTE: Go to Slide #
 
 NOTE: for 
 
----
 
 ## SECTION 3: LESSON PRESENTATION
 ### LESSON Phase: Generalize New Information
@@ -246,7 +232,6 @@ Table goes here:
 | -------- | -------- | -------- |
 | Data 1   | Data 2   | Data 3   |
 
----
 
 ```
 
@@ -275,7 +260,6 @@ Table goes here:
 | -------- | -------- | -------- |
 | Data 1   | Data 2   | Data 3   |
 
----
 
 ```
 
@@ -299,7 +283,6 @@ Table goes here:
 | -------- | -------- | -------- |
 | Data 1   | Data 2   | Data 3   |
 
----
 
 ```
 
@@ -322,7 +305,6 @@ Table goes here:
 | -------- | -------- | -------- |
 | Data 1   | Data 2   | Data 3   |
 
----
 
 ```
 
@@ -349,7 +331,6 @@ Table goes here:
 | -------- | -------- | -------- |
 | Data 1   | Data 2   | Data 3   |
 
----
 
 ```
 
@@ -372,7 +353,6 @@ NOTE: Note goes here
 %%Review/Summary goes here%%
 
 
----
 
 ## SECTION 4: SUMMARY
 
@@ -390,7 +370,6 @@ During this block of instruction, we...
 
 **Review/Summary:** During this block of instruction, we...
 
----
 
 ## SECTION 5: STUDENT EVALUATION
 
@@ -400,7 +379,6 @@ NOTE: Describe how the student must demonstrate accomplishment of the TLO. Refer
 
 %%You may include specifics regarding how the TLO will be assessed here, or you can refer the instructor to Appendix B – Assessment Statement and Assessment Plan.%%
 
----
 
 ### Student Feedback Requirement
 
@@ -425,7 +403,6 @@ NOTE: %%Feedback is essential to effective learning. Schedule and provide feedba
 ### Assessment Statement: 
 %%An abbreviated statement that identifies how the lesson's TLO will be assessed as reflected in the Individual Student Assessment Plan (ISAP).%%
 
----
 
 ### Assessment Plan: 
 %%If not covered in Section V (Student Evaluation), you may do a detailed write-up of the assessment procedures for the lesson in this appendix.  You can include or refer to Test Control SOPs, procedures for procuring and grading tests, or procedures for conducting performance assessments.  It is OK to include performance checklists here, but DO NOT include written test items or their answers in this appendix.%%
