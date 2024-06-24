@@ -152,7 +152,7 @@ To expand or collapse sections/headers in a note Top Menu > Insert > {"Fold" or 
    find . -name .git -print -execdir git pull \;
    ```
 
-### Create a copy of instructor files and convert
+### Create a copy of instructor files and convert to pdf
 This assumes you have the following installed:
 - LibreOffice
 - pandoc
