@@ -167,6 +167,8 @@ find .. -type f -name 'Lesson_Plan*.md' -exec pandoc {} --pdf-engine=wkhtmltopdf
 find .. -type f -name 'Lesson_Plan*.pdf' -exec mv {} ./ \;
 find .. -type f -name 'Advanced_Organizer*.md' -exec pandoc {} --pdf-engine=wkhtmltopdf -o "{}.pdf" \;
 find .. -type f -name 'Advanced_Organizer*.pdf' -exec mv {} ./ \;
+find .. -type f -iname 'Handout*.md' -exec pandoc {} --pdf-engine=wkhtmltopdf -o "{}.pdf" \;
+find .. -type f -iname 'Handout*.pdf' -exec mv {} ./ \;
 cp ../../3-Design/2-Counter_Malign_Information-Schedule.md ./
 cp ../Course_Syllabus-Counter_Malign_Information.md ./
 cd ./
@@ -175,4 +177,3 @@ for file in *.md; do
     pandoc "$file" --pdf-engine=wkhtmltopdf -o "${file%.md}.pdf"
 done
 ```
-
