@@ -195,8 +195,6 @@ Table goes here:
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Data 1   | Data 2   | Data 3   |
-
-
 ```
 
 NOTE: Go to Slide #
@@ -231,8 +229,6 @@ Table goes here:
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Data 1   | Data 2   | Data 3   |
-
-
 ```
 
 NOTE: Go to Slide #
@@ -259,8 +255,6 @@ Table goes here:
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Data 1   | Data 2   | Data 3   |
-
-
 ```
 
 NOTE: Go to Slide #
@@ -281,10 +275,7 @@ Image or Video goes here:
 Table goes here:
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
-| Data 1   | Data 2   | Data 3   |
-
-
-```
+| Data 1   | Data 2   | Data 3   |```
 
 NOTE: Go to Slide #
 #### SLIDE #
@@ -304,8 +295,6 @@ Table goes here:
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Data 1   | Data 2   | Data 3   |
-
-
 ```
 
 NOTE: Go to Slide #
@@ -330,8 +319,6 @@ Table goes here:
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Data 1   | Data 2   | Data 3   |
-
-
 ```
 
 ### LESSON Phase: Assessment / Check On Learning
